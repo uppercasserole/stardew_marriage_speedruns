@@ -2,7 +2,7 @@ Spring 27
 - Read mail
 - Check beach forage
 - Go mining for amethyst
-![Amethyst Location](img/day_27_amethyst.png)
+![Amethyst Location](../../img/day_27_amethyst.png)
 - Get Fishing rod from beach
 - Gift Emily at 12pm
 - Pass out
