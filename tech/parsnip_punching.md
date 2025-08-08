@@ -1,28 +1,22 @@
-# Crate Manipulation
+# Parsnip Punching
 
-Crate manipulation is tech which allows the contents of crates in the mines to be predicted. This tech can be done on patch 1.5, patch 1.6 with Legacy RNG, and 1.6 without legacy RNG, though the specific manipulated crate locations will be different for each.
+Parsnip Punching is tech which allows you to exhaust yourself extremely quickly, which is helpful for passing out when you want.
 
 ## Overview
 
-The "random" contents of a crate is determined completely by:
-- The in-game date
-- The floor
-- The location of the crate on the floor
+Parsnip Punching is relatively simple. You need to:
+- Select an empty slot in your inventory (ie: not be holding an item or tool)
+- Stand next to the box of parsnips in your house
+- Mouse over the box of parsnips in your house (cannot be done on controller)
+- Alternate left-clicking and pressing "c" on your keyboard as fast as possible
 
-Notably, the game seed has NO effect on the content of crates. This means that in any stardew file, a crate in the same location on the same floor on the same in-game day will always contain the same item.
+This drains stamina at a very fast rate, allowing you to set up your stamina level where you need it for the day. The below GIFs are not sped up, they are at normal game speed.
+![Parsnip Punching](../img/parsnip_punching.gif)
+![Dwarf Rock Punching](../img/parsnip_punching_dwarf_rock.gif)
 
-Crate manipulation is simply knowing that a particular crate location on a specific floor/day contains the item that you want. Every time you leave a floor and re-enter, crates will move around randomly. So by leaving and returning to the same floor over and over again, you can check for a crate in the specific spot that you want.
+
+![Parsnip Punching](../img/parsnip_punching.mp4)
 
 ## Example
 
-In an Emily marriage speedrun, we always go to the mines on the 27th of Spring, Year 1 looking for amethyst. It so happens that on floor 5, there is a large group of crates, one of which will always contain an amethyst.
-
-![Amethyst Location](../img/day_27_amethyst.png)
-
-The floor can be reset repeatedly, looking for a crate in that specific spot. Whenever a crate spawns there, you can break that one crate, grab the amethyst, and then reset the floor again looking for another crate in the same spot.
-
-![Amethyst](../img/day_27_amethyst.gif)
-
-## Do it yourself
-
-You can use [BlaDe's Predictor](https://www.nexusmods.com/stardewvalley/mods/6614) to analyze any floor/day combination for any items.
+In an Emily marriage speedrun, we leave from the mines heading to Emily's house, from which we want to pass out to return home quickly. As we leave the mines, we punch the dwarf rock until we have 1 stamina left so that we can pass out quickly from Emily's house.

@@ -1,6 +1,3 @@
-TODO: Fix planting parsnip image
-TODO: Add Pumpkin planting image
-
 # Abigail Marriage 
 
 ## Required Tech
@@ -15,23 +12,28 @@ Play as: Girl
 Farm: Beach Farm  
 Patch: 1.6 with Legacy RNG  
 
+Extra options:
+- Starting Cabins: 1
+- Cabin Layout: Close
+
 ## Miscellaneous notes
 
-- This route calls for all golden quality pumpkins for gifting, but up to 3 regular quality pumpkins are fine as long as they are not gifted on birthdays.
+- This route calls for all golden quality pumpkins for gifting, but up to 2 regular quality pumpkins are fine as long as they are not gifted on birthdays.
 
 ## Route
 
 ### Spring 1, Y1
 - Plant parsnips
+  ![Parsnip planting spots](../../img/abigail_crop_manip_parsnips.png)
   ```
   ~HHHHSSSHHM~~~P~~~
   ~~~~~~P~~~P~~~PPPP
   T@~~@~PPPPPPPPP~~~
   @~~@~~~~~~~~~~~~~~
-  ~~~~~~~~~~~~~~~~~~
+  ~~~~~@~~@~~@~~@~~~
   ~~~~~~~~~~~~~~~~~~
   ~@~~~~~~~~~~~~~~~~
-  @~~T~~@@@@@@@~~~~~
+  @~~T~~@~~@~~@~~~~~
   ~~~~~~~~@~~@~~~~~~
   
   Legend:
@@ -42,14 +44,13 @@ Patch: 1.6 with Legacy RNG
   T: Tree
   @: Parsnip planting spot
   ```
-  
-![Needs updating](../../img/abigail_crop_manip_parsnips.png)
 
-- Sleep
+- Sleep  
 
-- Reset on Sunny 7th
-- Reset on Sunny 9th
-- Reset on Rainy 15th
+
+- Reset on rainy 6th
+- Reset on rainy 8th
+- Reset on sunny 9th
 
 ### Spring 27, Y1
 - Harvest parsnips
@@ -66,20 +67,21 @@ Patch: 1.6 with Legacy RNG
 - Sell all parsnips
 - Buy 8 pumpkin seeds and 1 speed-gro
 - Plant all pumpkin seeds and speed-gro **B**
+  ![Pumpkin planting spots](../../img/abigail_crop_manip_pumpkins.png)
+  ```
+  8~~8~~
+  ~~~@~~
+  7~~7~B
+  ~~~~~7
+  8~~8~~
+  
+  Legend:  
+  @: Gold quality parsnip spot  
+  7: Plant pumpkin here, harvest on 27th  
+  8: Plant punpkin here, harvest on 28th  
+  B: Plant pumpkin here and use speed-gro, harvest on 13th (Birthday pumpkin)
+  ```
 - Sleep
-```
-8~~8~~
-~~~@~~
-7~~7~B
-~~~~~7
-8~~8~~
-
-Legend:  
-@: Gold quality parsnip spot  
-7: Plant pumpkin here, harvest on 27th  
-8: Plant punpkin here, harvest on 28th  
-B: Plant pumpkin here and use speed-gro, harvest on 13th (Birthday pumpkin)
-```
 
 ### Fall 3 through 12, Y1
 - Count rain days
@@ -88,6 +90,7 @@ B: Plant pumpkin here and use speed-gro, harvest on 13th (Birthday pumpkin)
 
 ### Fall 13, Y1
 - Harvest **B**
+- Water all pumpkins
 - Till for a single clay near the mailbox (to set up winter forage) 
   ![Clay tilling spot](../../img/abigail_winter_forage_manip_1.png)
   ```
@@ -108,7 +111,7 @@ B: Plant pumpkin here and use speed-gro, harvest on 13th (Birthday pumpkin)
 - Gift pumpkin outside of Abigail's bedroom at 9am
 - Pass out
 
-Start watering all pumpkins on the 15th (+ any rain days)
+Start watering all pumpkins on the 16th (+ any rain days)
 
 ### Fall 27, Y1
 - Harvest pumpkins marked 7
@@ -126,19 +129,21 @@ Start watering all pumpkins on the 15th (+ any rain days)
 - Sleep
 
 ### Winter 12, Y1
+- Go to extra cabin and punch parsnips to half stamina
 - Read single letter from mailbox for fishing rod
-- Winter forage farm (66). If clay manip was done, start on tile pictured below:
+- Winter forage farm on the beach (66). If clay manip was done, start on tile pictured below:
   ![Winter forage tilling location](../../img/abigail_winter_forage_manip_2.png)
 - Gift pumpkin in Abigail's bedroom at 9am or in Pierre's kitchen after that
 - Pass out
 
 ### Winter 13, Y1
-- Winter forage farm (66)
+- Winter forage farm on the beach (66)
 - Gift pumpkin in Abigail's bedroom at 9am
 - Pass out
 
 ### Winter 14, Y1
-- Winter forage farm (66)
+- Go to extra cabin and punch parsnips to half stamina
+- Winter forage farm on the beach (66)
 - Gift pumpkin in Abigail's bedroom at 9am
 - Answer her question with option 2: "I like the orc with the battleaxe."
 - Pass out
@@ -165,7 +170,7 @@ Start watering all pumpkins on the 15th (+ any rain days)
 - Bouquet + Gift pumpkin in Abigail's bedroom at 9:00am
 - Pass out
 
-### Fall 19, Y2 (Should be raining)
+### Rainy day (should rain on either the 19th or 21st)
 - Read mail for up to 1000g if necessary (5000g required for pendant)
 - Chop trees if necessary (300 wood required for bridge)
 - Gift pumpkin in Abigail's bedroom at 9:00am
