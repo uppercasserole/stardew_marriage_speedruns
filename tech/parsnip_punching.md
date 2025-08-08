@@ -15,7 +15,7 @@ This drains stamina at a very fast rate, allowing you to set up your stamina lev
 ![Dwarf Rock Punching](../img/parsnip_punching_dwarf_rock.gif)
 
 
-![Parsnip Punching](../img/parsnip_punching.mp4)
+https://github.com/uppercasserole/stardew_marriage_speedruns/raw/refs/heads/video_test/img/parsnip_punching.mp4
 
 ## Example
 
