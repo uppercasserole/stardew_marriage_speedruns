@@ -1,6 +1,6 @@
 # Rain Prediction
 
-Rain prediction is tech which allows the weather to be predicted years in advance. This tech can only be done on patch 1.6 with legacy RNG enabled only.
+Rain prediction is tech which allows the weather to be predicted years in advance. This tech can be done on patch 1.6 with legacy RNG enabled only.
 
 ## Overview
 

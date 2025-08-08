@@ -2,13 +2,15 @@ TODO: Figure out Clay farming numbers
 
 # Leah Marriage 
 
+[Video of Run](https://youtu.be/R-A4msromrY)
+
 ## Required Tech
 - [Winter Forage Farming](../../tech/winter_forage_farming.md)
 
 ## Miscellaneous notes
 
 - All Leah gifts are salads
-- All Lead gifting is done inside of her cottage unless explicitly stated
+- All Leah gifting is done inside of her cottage unless explicitly stated
 
 ## Setup
 
@@ -22,7 +24,7 @@ Sleep until Winter 22nd
 
 ### Winter 22, Y1
 - Check mail for Willy letter
-- Clay farm until 11:00am
+- Clay farm until 11:00am (eat winter forage if you are out of stamina and it's not 11)
 - TALK TO PIERRE
 - Sell 17 Snow yam to Pierre
 - Buy 2 coffee and 7 salads

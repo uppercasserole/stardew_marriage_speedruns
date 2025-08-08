@@ -31,22 +31,27 @@ Patch: 1.6 with Legacy RNG
 - Mark gold spot
 - Reset if no golden parsnip was found
 - Prepare planting spots for day 7
+  ![Cauliflower planting spots](../../../img/multi_2p_emily_maru_crop_manip.png)
+  ```
+  ~~~6~~6~~~~
+  ~7~~@~~~~~~
+  ~~~~~~7~~7~
+  ~~~~~~~~~~~
+  ~~~6~~6~~~~
+  ~~~~~~~~~~~
+  ~~~7~~7~~~~
+  
+  Legend:
+    @: Gold quality parsnip spot
+    6: Plant cauliflower here here, harvest on 26th
+    7: Plant cauliflower here, harvest on 27th
+  ```
 - Chop trees as time permits
 - Go to Pierre's at 9am
 - TALK TO PIERRE
 - Sell Gold Parsnip + 5 regular parsnips (replace regular with silver, if any, for easier inventory)
 - Buy 9 cauliflower seeds
 - Pass out
-
-```
-~~~6~~6~~~~
-~7~~@~~~~~~
-~~~~~~7~~7~
-~~~~~~~~~~~
-~~~6~~6~~~~
-~~~~~~~~~~~
-~~~7~~7~~~~
-```
 
 ### Spring 7, Y1
 - Plant and fertilize cauliflower (craft basic fertilizer from sap)
@@ -95,16 +100,16 @@ Start watering cauliflower on the 15th through the 25th (+ any rain days)
 
 ### Winter 9, Y1
 - Drink Coffee if available
-- Clay farm at beach (86)
+- Clay farm at beach (86), starting from one of the following spots
+  ![Winter forage farming spots](../../../img/multi_2p_emily_maru_winter_forage.png)
 - Gift Maru inside clinic
 - Pass out
 
 ### Winter 11, Y1
 - Drink Coffee if available
-- Clay farm at beach (86)
+- Clay farm at beach (86), starting from the same spot as Winter 9
 - Gift Maru inside clinic
 - Pass out
-
 
 ### Spring 24, Y2
 - Chop Trees
@@ -119,18 +124,17 @@ Start watering cauliflower on the 15th through the 25th (+ any rain days)
 - Upgrade house at Robin's
 - Pass out
 
-
 ### Summer 10, Y2
 - Chop Trees
 - Birthday Gift, Bouquet, Talk to Maru in her bedroom at 9am
 - Pass out
 
 ### Summer 11, Y2
-- Give Emily Player 1 Gold Cauli
-- SHIP EVERYTHING except for 2 Gold Cauli. This is the final gifting day + 1 cauli for luau
+- Give Emily Player 1 Gold cauliflower
+- SHIP EVERYTHING except for 2 Gold cauliflower. You only need 2 cauliflower, 1 for gifting and 1 for luau.
 - Chop Trees
 - Gift at 8:10am between Robin's house and the clinic (Maru walking to work)
-- Luau at 9am (Gold Cauli)
+- Luau at 9am (Gold cauliflower)
 
 ### Summer 13 (or 12 if raining), Y2
 - Read all mail

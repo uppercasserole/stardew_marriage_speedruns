@@ -1,4 +1,8 @@
 
+
+Video of run: https://www.youtube.com/watch?v=H6xcidWv88o
+
+
 Rain on 6, 8, 10, 12, reset
 Sunny on 15th, reset
 Rain on 21st, reset

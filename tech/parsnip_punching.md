@@ -14,9 +14,6 @@ This drains stamina at a very fast rate, allowing you to set up your stamina lev
 ![Parsnip Punching](../img/parsnip_punching.gif)
 ![Dwarf Rock Punching](../img/parsnip_punching_dwarf_rock.gif)
 
-
-![Parsnip Punching](../img/parsnip_punching.mp4)
-
 ## Example
 
 In an Emily marriage speedrun, we leave from the mines heading to Emily's house, from which we want to pass out to return home quickly. As we leave the mines, we punch the dwarf rock until we have 1 stamina left so that we can pass out quickly from Emily's house.

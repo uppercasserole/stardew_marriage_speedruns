@@ -30,7 +30,6 @@ Unlike most marriage routes which collect a consistent amount of gifts, all of E
 - On Spring 27, Y1, 2 gifts + 1 amethyst is usually good enough, 3 gifts + 1 amethyst is incredible.
 - On Winter 9, when checking mail, you need 4 gifts + 1 amethyst to finish the run, but you can also check beach crates and possibly get more mail as late as Summer 10, Y2
 
-
 ## Route
 
 ### Spring 1, Y1
@@ -54,21 +53,23 @@ Unlike most marriage routes which collect a consistent amount of gifts, all of E
 
 ### Spring 7, Y1
 - Water all cauliflower spots dug by Maru player
+  ![Cauliflower planting spots](../../../img/multi_2p_emily_maru_crop_manip.png)
+  ```
+  ~~~6~~6~~~~
+  ~7~~@~~~~~~
+  ~~~~~~7~~7~
+  ~~~~~~~~~~~
+  ~~~6~~6~~~~
+  ~~~~~~~~~~~
+  ~~~7~~7~~~~
+  ```
 - Sleep
-```
-~~~6~~6~~~~
-~7~~@~~~~~~
-~~~~~~7~~7~
-~~~~~~~~~~~
-~~~6~~6~~~~
-~~~~~~~~~~~
-~~~7~~7~~~~
-```
+
 
 Start watering cauliflower on the 15th through the 25th (+ any rain days)
 
 ### Spring 27, Y1
-- Reset floor 5 for amethyst
+- Reset floor 5 for amethyst (wait 10 minutes between each reset)
   ![Floor 5 Amethyst](../../../img/day_27_amethyst.png)
 - Punch dwarf rock down to 2 stamina
 - If time permits, merge funds and give all money to Maru player at Lewis'
@@ -85,7 +86,8 @@ Start watering cauliflower on the 15th through the 25th (+ any rain days)
 ### Winter 9, Y1
 - Read all mail for gifts, reset day if necessary
 - Drink Coffee if available
-- Clay farm at beach (86)
+- Clay farm at beach (86), starting from one of the following spots
+  ![Winter forage farming spots](../../../img/multi_2p_emily_maru_winter_forage.png)
 - TALK TO PIERRE
 - Buy Apricot Sapling from Pierre for 2,000 (Sell snow yams as necessary)
 - Gift Emily AND give Emily an amethyst in her house or at Pierre's (she leaves home for Pierre's at 10am)
@@ -94,7 +96,7 @@ Start watering cauliflower on the 15th through the 25th (+ any rain days)
 ### Winter 11, Y1
 - Plant apricot sapling
 - Drink Coffee if available
-- Clay farm at beach (86)
+- Clay farm at beach (86), starting from the same spot as Winter 9
 - Gift Emily in her bedroom (Leaves home for clinic at 10:30am)
 - Pass out
 
@@ -124,10 +126,11 @@ Start watering cauliflower on the 15th through the 25th (+ any rain days)
 - Pass out
 
 ### Summer 11, Y2
+- Get Gold cauliflower from Maru player
 - SHIP EVERYTHING (all winter forage, apricots, apricot sapling, all loved gifts. No more gifting, you need only a single cauliflower for the luau).
 - Chop Trees
 - Bring cauliflower to luau
-- Luau at 9am (Gold Cauli)
+- Luau at 9am (Gold cauliflower)
 
 ### Summer 13 (or 12 if raining), Y2
 - Read all mail
