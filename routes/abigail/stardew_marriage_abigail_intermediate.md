@@ -48,8 +48,6 @@ Extra options:
   @: Parsnip planting spot
   ```
 - Sleep
-
-
 - Reset on rainy 6th
 - Reset on rainy 8th
 - Reset on sunny 9th
