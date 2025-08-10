@@ -1,5 +1,3 @@
-TODO: Figure out Clay farming numbers
-
 # Leah Marriage 
 
 [Video of Run](https://youtu.be/R-A4msromrY)
@@ -24,7 +22,7 @@ Sleep until Winter 22nd
 
 ### Winter 22, Y1
 - Check mail for Willy letter
-- Clay farm until 11:00am (eat winter forage if you are out of stamina and it's not 11)
+- Clay farm until 11:00am (eat winter forage if you are out of stamina and it's not yet 11)
 - TALK TO PIERRE
 - Sell 17 Snow yam to Pierre
 - Buy 2 coffee and 7 salads

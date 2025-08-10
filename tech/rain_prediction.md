@@ -10,7 +10,7 @@ On patch 1.6, if we can narrow down our game seed enough by observing RNG phenom
 
 ## Example
 
-In the [Abigail Intermediate Route](../routes/abigail/stardew_marriage_abigail_intermediate.md), the notes on Spring 1, Y1 say:
+In the [Abigail Intermediate Route](../routes/abigail/stardew_marriage_abigail_intermediate.md), the notes for "Early Spring, Y1" say:
 > - Reset on rainy 6th
 > - Reset on rainy 8th
 > - Reset on sunny 9th

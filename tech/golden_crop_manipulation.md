@@ -16,7 +16,6 @@ Extrapolating from this, we can set up future planting spots and dates to harves
 ## Example
 
 In the [2 player Emily/Maru route](../routes/multiplayer/2p_emily_maru_intermediate/stardew_marriage_2p_intermediate_maru.md), the notes on Spring 6, Y1 say:
-
 > - Harvest parsnips
 > - Mark gold spot
 > - Reset if no golden parsnip was found

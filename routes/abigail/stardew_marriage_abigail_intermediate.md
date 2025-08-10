@@ -48,6 +48,8 @@ Extra options:
   @: Parsnip planting spot
   ```
 - Sleep
+
+### Early Spring, Y1
 - Reset on rainy 6th
 - Reset on rainy 8th
 - Reset on sunny 9th
@@ -137,13 +139,13 @@ Start watering all pumpkins on the 16th (+ any rain days)
 - Pass out
 
 ### Winter 13, Y1
-- Winter forage farm on the beach (66)
+- Winter forage farm on the beach (66), starting from the same tile.
 - Gift pumpkin in Abigail's bedroom at 9am
 - Pass out
 
 ### Winter 14, Y1
 - Go to extra cabin and punch parsnips to half stamina
-- Winter forage farm on the beach (66)
+- Winter forage farm on the beach (66), starting from the same tile.
 - Gift pumpkin in Abigail's bedroom at 9am
 - Answer her question with option 2: "I like the orc with the battleaxe."
 - Pass out
