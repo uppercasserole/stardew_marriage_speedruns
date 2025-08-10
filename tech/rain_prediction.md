@@ -10,7 +10,13 @@ On patch 1.6, if we can narrow down our game seed enough by observing RNG phenom
 
 ## Example
 
-If it rains on Spring 7th AND Spring 26th (Year 1) then it is guaranteed to rain on Spring 27th (Year 2). In an Emily marriage speedrun, Spring 27th, year 2 is the day that we want to propose (as it is Emilys birthday). So in an Emily Marriage speedrun, we would reset any run where it was sunny on the 7th or 26th, guaranteeing us to get the rain in year 2 on the date that we want.
+In the [Abigail Intermediate Route](../routes/abigail/stardew_marriage_abigail_intermediate.md), the notes on Spring 1, Y1 say:
+> - Reset on rainy 6th
+> - Reset on rainy 8th
+> - Reset on sunny 9th
+
+This is because if it rains on Spring 9th, Y1, it is guaranteed to rain on the 19th or 21st of Fall, Y2. If it rains on the 6th or 8th or Spring, it is impossible for it to rain on Spring 9th.
+By resetting any run that does not have rain on Spring 9th, we guarantee it to rain right when we want to propose.
 
 ## Do it yourself
 
