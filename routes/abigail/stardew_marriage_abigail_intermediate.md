@@ -47,8 +47,7 @@ Extra options:
   T: Tree
   @: Parsnip planting spot
   ```
-
-- Sleep  
+- Sleep
 
 
 - Reset on rainy 6th
