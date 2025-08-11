@@ -70,21 +70,23 @@ Patch: 1.6 with Legacy RNG
 - Return home and plant all crops
 - Sleep
 
-### Rest of Summer, Y1
+### Summer, Y1
 - Water Melon starting on the 15th (+ any rain days)
 - Water Melons 5 times solo before beginning to water Poppies
-- Harvest on 26 and 27th as appropriate
+
+### Summer 26, Y1
+- Harvest crops planted on 6s
   ```
   6~~6~~6~~~~~~~~~~~~
   ~~~~~~~~6@~6~~6~~~~
   ~~~7~~7~~~~~~~~~~~~
   ~~~~~~~~~~~7~~~~~~~
-  
-  Legend:
-  @: Gold quality parsnip spot
-  6: Harvest on 26th
-  7: Harvest on 27th
   ```
+- Sleep
+
+### Summer 27, Y1
+- Harvest remaining crops
+- Sleep
 - A single regular quality Poppy is OK, as long as it isn't gifted on a birthday (Fall 2)
 
 ### Fall 2, Y2
