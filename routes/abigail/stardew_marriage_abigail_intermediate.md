@@ -61,7 +61,7 @@ Extra options:
 - Sleep
 
 ### Fall 1, Y1
-- Clear out space for crops
+- Clear out space for crops, chop at least 3 trees down for sap
 - Water all spaces
 - Fertilize all spaces with basic fertilizer (crafted from sap), except for **B**
 - Go to Pierre's at 9am

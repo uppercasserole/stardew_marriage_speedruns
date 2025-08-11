@@ -1,5 +1,3 @@
-TODO: Take screenshots
-
 # Penny Marriage 
 
 [Video of run](https://www.youtube.com/watch?v=H6xcidWv88o)
@@ -20,15 +18,19 @@ Patch: 1.6 with Legacy RNG
 ### Spring 1, Y1
 
 - Plant Parsnips
+  ![Parsnip Planting Spots](../../img/penny_crop_manip_parsnips.png)
   ```
+  ~~HHHHHHHHH~~~~
   ~~~~~~~P~~~~~~~
-  ~~~~~~~PPPPPPP~
+  ~T~~~~~PPPPPPP~
   ~~@@@@~~~~~~~~~
   ~@@@@~~@@@@@@@~
   ~~~~~~~~~~~~~~~
   
   Legend:
   P: Path in front of house
+  H: House
+  T: Tree
   @: Parsnip planting location
   ~: Beach
   ```
@@ -45,22 +47,44 @@ Patch: 1.6 with Legacy RNG
 - Reset if no gold parsnip
 
 ### Summer 1, Y1
-- Clear out spots for Poppies + Melon
-- Gift Penny a regular parsnip at 8:10am outside of her house (She leaves for the river near Joja-mart)
-- Buy 1 Melon + 8 Poppy
-- TALK TO PIERRE
-- Plant, water, fertilize crops
+- Clear out spots for crops, chop at least 3 trees down for sap
+- Water all spaces
+- Fertilize all spaces with basic fertilizer (crafted from sap)
+  ![Summer planting spots](../../img/penny_crop_manip_poppies.png)
   ```
   6~~6~~6~~~~~~~~~~~~
-  ~~~~~~~~6@~6~~6~~~~
+  ~~~~~~~~M@~6~~6~~~~
   ~~~7~~7~~~~~~~~~~~~
   ~~~~~~~~~~~7~~~~~~~
+  
+  Legend:
+  @: Gold quality parsnip spot
+  M: Plant melon here, harvest on 26th
+  6: Plant poppy here, harvest on 26th
+  7: Plan poppy here, harvest on 27th
   ```
+- Gift Penny a regular parsnip at 8:10am outside of her house (She leaves for the river north of Joja-mart)
+- Sell all parsnips to Pierre
+- Buy 1 Melon + 8 Poppy
+- TALK TO PIERRE
+- Return home and plant all crops
+- Sleep
 
 ### Rest of Summer, Y1
 - Water Melon starting on the 15th (+ any rain days)
 - Water Melons 5 times solo before beginning to water Poppies
 - Harvest on 26 and 27th as appropriate
+  ```
+  6~~6~~6~~~~~~~~~~~~
+  ~~~~~~~~6@~6~~6~~~~
+  ~~~7~~7~~~~~~~~~~~~
+  ~~~~~~~~~~~7~~~~~~~
+  
+  Legend:
+  @: Gold quality parsnip spot
+  6: Harvest on 26th
+  7: Harvest on 27th
+  ```
 - A single regular quality Poppy is OK, as long as it isn't gifted on a birthday (Fall 2)
 
 ### Fall 2, Y2
