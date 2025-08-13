@@ -1,104 +1,177 @@
-TODO: Format
+TODO: Video of run  
+TODO: Screenshots for planting
+TODO: Screenshot for winter forage farming
 
+# Alex Marriage 
 
-Play as girl on beach farm.
+[Video of run](...)
 
-Day 1 Plant parsnip
+## Required Tech
+- [Winter Forage Farming](../../tech/winter_forage_farming.md)
+- [Golden Crop Manipulation](../../tech/golden_crop_manipulation.md)
 
-Count waters
+## Setup
 
-Attempt harvest on 21, 22, 24, 25, 26, 28
-Note gold quality spot and date
+Play as: Girl  
+Farm: Beach Farm  
+Patch: 1.6 with Legacy RNG
 
--############-
-Summer 10
-- Check mail
-- Clear out farm around gold quality spots
+## Route
+
+### Spring 1, Y1
+- Plant all parsnips
+- Sleep
+
+### Spring 28, Y1
+- Harvest all parsnips
+- Mark Gold parsnip location
+- Reset if no gold parsnip
+- Sleep
+
+### Summer 13, Y1
+- Read single letter from mailbox for fishing rod
+- Clear space for future planting around gold quality spots
+- Chop trees as able
 - Go to beach for fishing rod
-- Gift regular parsnip at 8:10am
-- Answer skill testing question (option 1)
-- Pass out or walk back
+- Gift Gold parsnip outside Alex's house at 8:10am
+- Pass out
 
-Summer 13
-- Clear out farm around gold quality spots
-- Chop trees
-- Gift gold quality parsnip at 8:10am
-- Pass out or walk back
+### Summer 17, Y1
+- If it is raining, do this day on summer 24 instead (non-raining Wednesday)
+- Clear space for future planting around gold quality spots
+- Chop trees as able
+- Gift regular parsnip outside Alex's house at 8:10am
+- Answer Alex with option 1: "You're destined to be a sports legend"
+- Pass out
 
-Summer 14
-Go out for Willy cutscene
-
--############-
-Fall 1
-- Clear out farm around gold quality spots
-- Gift at 8:30am
-- Go to Pierres
-
+### Fall 1, Y1
+- Clear space for future planting around gold quality spots
+- Chop trees as able
+- Gift regular parsnip outside Alex's house at 8:30am
+- Go to Pierre's
 - TALK TO PIERRE
-
 - Sell 6 parsnips, buy 12 bok choy seeds
 - Pass out
 
-Fall 2
+### Fall 2, Y1
+- Craft 12 basic fertilizer from sap
 - Sow, water and fertilize 12 bok choy
-- Chop trees
-- Gift at 8am
+  ```
+  ~81~~~~~~@~
+  4~~81~81~81
+  ~~4~~4~~4~~
+  
+  Legend:
+  @: Gold quality parsnip spot  
+  7: Plant bok choy here, harvest on 21st
+  8: Plant bok choy here, harvest on 24th  
+  B: Plant bok choy here, harvest on 28th
+  ```
+- Chop trees as able
+- Gift regular parsnip in Alex's house at 8am
 - Pass out
 
-```
-~07~~~~~~@~
-4~~07~07~07
-~~4~~4~~4~~
-```
-
-@ = Gold parsnip spot
-0/4/7 = Plant kale here
-0 = Harvest on the same day as the gold parsnip (ie: If gold parsnip was on spring 24, harvest on fall 24)
-4 = Harvest 4 days before the gold parsnip date (ie: If gold parsnip was on spring 24, harvest on fall 20)
-7 = Harvest 7 days before the gold parsnip date (ie: If gold parsnip was on spring 24, harvest on fall 17)
-
-Rest of fall
-
-Kale needs 6 waters total.
-Go out 4 times to gift, ideally on water/harvest days. Gift parsnips until 3 left, then start gifting Kale (gift Kale fot the rest of the run).
-Go out on a wednesday for the skill testing question (option 1).
-Always give 2 gifts per week.
-Festival days are the 16th and 27th (Don't go out on these days).
-Chop trees with any free time.
-
--############-
-Winter 5, 6, 7, 19, 20, 21, 22
-- Clay farm near Alex (19 -> 24 or 19 -> 13 on the 7th) 
-- Gift at 8am
+### Fall 15, Y1
+- Water bok choy
+- Chop trees
+- Gift regular parsnip in Alex's house at 8am
 - Pass out
 
-DON'T SKIP THE 5 HEART CUTSCENE (option 2, skip after picking option 2)
-
-If you wake up and have 140ish forage, sell all
-On the next day you go out, go to robins, buy wood down to 10,000 gold and upgrade house
-
--############-
-Spring 22
+### Fall 17, Y1
+- Water bok choy
 - Chop trees
-- Gift at 8am
+- Gift regular parsnip in Alex's house at 8am
+- If Alex asks, answer option 1: "It looks very fashionable."
 - Pass out
 
-Spring 24
+### Fall 21, Y1
+- Harvest bok choy marked "1"
+  ```
+  ~81~~~~~~@~
+  4~~81~81~81
+  ~~4~~4~~4~~
+  ```
 - Chop trees
-- Gift outside of house at 8:30am
-- Talk to Alex for skill testing question (option 2)
+- Gift bok choy in Alex's house at 8am
+- Pass out
+
+### Fall 24, Y1
+- Harvest bok choy marked "4"
+  ```
+  ~81~~~~~~@~
+  4~~81~81~81
+  ~~4~~4~~4~~
+  ```
+- Chop trees
+- Gift bok choy in Alex's house at 8am
+- If Alex asks, pick option 1: "It looks very fashionable."
+- Pass out
+
+### Fall 28, Y1
+- Harvest remaining bok choy
+- Sleep
+
+### Winter 5
+- Winter forage farm outside of Alex's house (19 -> 1)
+  ![Winter forage pattern](../../img/alex_winter_forage.png)
+- Gift bok choy in Alex's house at 8am
+- Pass out
+
+### Winter 6
+- Winter forage farm outside of Alex's house (19 -> 24)
+- Gift bok choy in Alex's house at 8am
+- Pass out
+
+### Winter 7
+- Winter forage farm outside of Alex's house (19 -> 13)
+- Gift bok choy in Alex's house at 8am
+- Pass out
+
+### Winter 19, Y1
+- Winter forage farm outside of Alex's house (19 -> 1)
+- Gift bok choy in Alex's house at 8am
+- Pass out
+
+### Winter 20, Y1
+- Winter forage farm outside of Alex's house (19 -> 24)
+- Gift bok choy in Alex's house at 8am
+- Pass out
+
+### Winter 21, Y1
+- Ship all winter forage
+- Winter forage farm outside of Alex's house (19 -> 24)
+- Enter Alex's house at 8am and DO NOT SKIP THE CUTSCENE
+- Pick option 2: "We all have our strengths and weaknesses."
+- Skip the cutscene as soon as you choose the text option
+- Gift bok choy in Alex's house at 8am
+- Pass out
+
+### Winter 22, Y1
+- Winter forage farm outside of Alex's house (19 -> 24)
+- Gift bok choy in Alex's house at 8am
+- Go to Robin's
+- Spend all but 10,000g buying wood from Robin, then upgrade house
+- Pass out
+
+### Spring 22
+- Chop trees
+- Gift bok choy in Alex's house at 8am
+- Pass out
+
+### Spring 24
+- Chop trees
+- Gift bok choy outside of Alex's house at 8:30am
+- Pick option 2: "I want to play catch with you!"
 - Flower dance
 - Talk to everyone
 - Sleep
 
--############-
-Summer 13
-
-- Chop trees until 9am
-- Sell all to Pierre, buy bouquet
-- Bouquet, then gift Alex
+### Summer 13
+- Chop trees until 300 wood
+- Go to Pierre's at 9am
+- Sell everything (except for single bok choy) to Pierre, buy bouquet
+- Gift bouquet, then bok choy in Alex's house
 - Buy Mermaids Pendant
 - Propose
 - Pass out
-
 - Sleep until win
