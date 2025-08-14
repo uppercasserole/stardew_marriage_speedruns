@@ -28,24 +28,18 @@ Patch: 1.6 with Legacy RNG
 - Reset if no gold parsnip
 - Sleep
 
-### Summer Y1
-- We will go out only twice during the summer:
-  - Once on Summer 13 (Alex's Birthday), and 
-  - Once on a sunny Wednesday (either the 10th, 17th, or 24th, not the 3rd)
-- On Summer 13, the gold parsnip should be gifted. On the sunny Wednesday, a regular parsnip
-- On the sunny Wednesday, when asked, you should answer Alex with option 1: "You're destined to be a sports legend"
-- Since they might be done in either order, the notes below are vague about the date
-
-### First summer day
+### Summer 13, Y1
 - Read single letter from mailbox for fishing rod
-- Immediately go to the beach for the fishing rod
-- Gift Alex in his house at 8am
+- Immediately go to beach for fishing rod
+- Gift Gold parsnip in Alex's house at 8am
 - Pass out
 
-### Second summer day
+### Summer 17, Y1
+- If it is raining, do this day on summer 24 instead (non-raining Wednesday)
 - Clear space for future planting around gold quality spots
 - Chop trees as able
-- Gift Alex in his house at 8am
+- Gift regular parsnip in Alex's house at 8am
+- Answer Alex with option 1: "You're destined to be a sports legend"
 - Pass out
 
 ### Fall 1, Y1
@@ -57,7 +51,7 @@ Patch: 1.6 with Legacy RNG
 - Sell 6 parsnips, buy 12 bok choy seeds
 - Pass out
 
-### Fall 3, Y1
+### Fall 2, Y1
 - Craft 12 basic fertilizer from sap
 - Sow, water and fertilize 12 bok choy
   ```
@@ -73,7 +67,6 @@ Patch: 1.6 with Legacy RNG
   ```
 - Chop trees as able
 - Gift regular parsnip in Alex's house at 8am
-- If Alex asks, answer option 1: "It looks very fashionable."
 - Pass out
 
 ### Fall 15, Y1
