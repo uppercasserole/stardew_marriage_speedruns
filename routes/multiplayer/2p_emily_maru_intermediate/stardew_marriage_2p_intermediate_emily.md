@@ -71,7 +71,7 @@ Start watering cauliflower on the 15th through the 25th (+ any rain days)
 ### Spring 27, Y1
 - Reset floor 5 for amethyst (wait 10 minutes between each reset)
   ![Floor 5 Amethyst](../../../img/day_27_amethyst.png)
-- Punch dwarf rock down to 2 stamina
+- Punch dwarf rock down to 1 stamina
 - If time permits, merge funds and give all money to Maru player at Lewis'
 - Grab a daffodil while walking to Emily's if you don't have a liked gift
 - Gift Emily outside of her bedroom at 12
