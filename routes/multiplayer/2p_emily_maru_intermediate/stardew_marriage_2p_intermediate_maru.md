@@ -8,7 +8,7 @@ To be paired with [Emily Notes](./stardew_marriage_2p_intermediate_emily.md)
 
 ## Setup
 
-Emily Player should host the file
+Emily Player should host the file  
 Play as: Girl  
 Farm: Beach Farm  
 Patch: 1.6 with Legacy RNG  
