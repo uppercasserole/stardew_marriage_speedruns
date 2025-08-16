@@ -27,3 +27,10 @@ The route notes in this collection are divided into 3 categories: `beginner`, `i
 ### Where can I get help speedrunning stardew?
 
 The [Stardew Valley Speedruns Discord](http://discord.gg/0t4blMHaUewwda7V) is a very welcoming place where people are happy to help with any problems you may have.
+
+## External Resources
+
+- [Rain Prediction Google Sheet](https://docs.google.com/spreadsheets/d/1R90dxVwzGcXk8GhsX7YkZoHOP7fFpuYS1qaht02M4iw) (Made by Alexa and BlaDe)
+- [Crop Quality Google Sheet](https://docs.google.com/spreadsheets/d/1e-LjO3NYIbTSGyx3bQraWZ5-7fjeyvWlBEyqaXPuiI8) (Made by Alexa and BlaDe)
+- [BlaDe's Predictor](https://www.nexusmods.com/stardewvalley/mods/6614) (Made by BlaDe)
+- [MouseyPounds Predictor](https://mouseypounds.github.io/stardew-predictor/) (Made by MouseyPounds)
