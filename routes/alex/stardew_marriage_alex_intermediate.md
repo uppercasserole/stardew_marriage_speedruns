@@ -1,10 +1,6 @@
-TODO: Video of run  
-TODO: Screenshots for planting
-TODO: Screenshot for winter forage farming
-
 # Alex Marriage 
 
-[Video of run](...)
+[Video of run](https://youtu.be/E7758iuytcg)
 
 ## Required Tech
 - [Winter Forage Farming](../../tech/winter_forage_farming.md)
@@ -15,6 +11,10 @@ TODO: Screenshot for winter forage farming
 Play as: Girl  
 Farm: Beach Farm  
 Patch: 1.6 with Legacy RNG
+
+## Miscellaneous notes
+
+This route takes advantage of specific dialogue options that Alex gives on wednesdays in spring, summer and fall. Unfortunately, there is a 2.5% chance that whenever you talk to Alex, he will tell you about one of his relatives likes or dislikes instead. If this happens, you will need to go out on an extra day and gift one of the leftover regular parsnips.
 
 ## Route
 
@@ -51,9 +51,10 @@ Patch: 1.6 with Legacy RNG
 - Sell 6 parsnips, buy 12 bok choy seeds
 - Pass out
 
-### Fall 2, Y1
+### Fall 3, Y1
 - Craft 12 basic fertilizer from sap
-- Sow, water and fertilize 12 bok choy
+- Plant, water and fertilize 12 bok choy
+  ![Alex planting spots](../../img/alex_crop_manip.png)
   ```
   ~81~~~~~~@~
   4~~81~81~81
@@ -67,6 +68,7 @@ Patch: 1.6 with Legacy RNG
   ```
 - Chop trees as able
 - Gift regular parsnip in Alex's house at 8am
+- If Alex asks, answer option 1: "It looks very fashionable."
 - Pass out
 
 ### Fall 15, Y1
