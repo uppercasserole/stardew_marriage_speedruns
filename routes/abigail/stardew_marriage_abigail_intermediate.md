@@ -17,7 +17,7 @@ Patch: 1.6 with Legacy RNG
 
 Extra options:
 - Starting Cabins: 1
-- Cabin Layout: Close
+- Cabin Layout: Nearby
 
 ## Miscellaneous notes
 
