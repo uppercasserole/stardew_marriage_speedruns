@@ -10,8 +10,6 @@ To be paired with [Emily Notes](./stardew_marriage_2p_intermediate_emily.md)
 
 Emily Player should host the file  
 Play as: Girl  
-Farm: Beach Farm  
-Patch: 1.6 with Legacy RNG  
 
 ### Spring 1, Y1
 - Plant parsnips in front of main house and water
@@ -69,7 +67,7 @@ Patch: 1.6 with Legacy RNG
 Start watering cauliflower on the 15th through the 25th (+ any rain days)
 
 ### Spring 26, Y1
-- Harvest cauliflowers plated on 6s
+- Harvest cauliflowers plated on 6s (should all be gold quality)
 ```
 ~~~6~~6~~~~
 ~7~~@~~~~~~
@@ -83,11 +81,11 @@ Start watering cauliflower on the 15th through the 25th (+ any rain days)
 
 ### Spring 27, Y1
 - Read all mail
-- Harvest remaining cauliflower
+- Harvest remaining cauliflower (should all be gold quality)
 - Chop trees
 - Break beach crates if time permits
 - Gather spring forage (Keep a daffodil for Emily Player if possible)
-- Gift Maru in the lab in her house
+- Gift a cauliflower to Maru in the lab in her house
 - Sell all forage and parsnips to Pierre
 - Cash out Journal
 - Buy coffee at 12 (spend all money)
@@ -95,20 +93,20 @@ Start watering cauliflower on the 15th through the 25th (+ any rain days)
 
 ### Summer 10, Y1
 - Chop trees
-- Gift Maru outside of her bedroom at 10am (or possibly later if it's raining)
+- Gift a cauliflower to Maru outside of her bedroom at 10am (or possibly later if it's raining)
 - Pass out
 
 ### Winter 9, Y1
 - Drink Coffee if available
-- Clay farm at beach (86), starting from one of the following spots
+- Winter forage farm at the beach (86), starting from one of the following spots
   ![Winter forage farming spots](../../../img/multi_2p_emily_maru_winter_forage.png)
-- Gift Maru inside clinic
+- Gift a cauliflower to Maru inside the clinic
 - Pass out
 
 ### Winter 11, Y1
 - Drink Coffee if available
-- Clay farm at beach (86), starting from the same spot as Winter 9
-- Gift Maru inside clinic
+- Winter forage farm  at the beach (86), starting from the same spot as Winter 9
+- Gift a cauliflower to Maru inside the clinic
 - Pass out
 
 ### Spring 24, Y2
@@ -120,20 +118,21 @@ Start watering cauliflower on the 15th through the 25th (+ any rain days)
 ### Spring 27, Y2
 - Give all winter forage to Emily Player
 - Chop Trees
-- Gift Maru in her bedroom at 9:30am
+- Gift a cauliflower to Maru in her bedroom at 9:30am
 - Upgrade house at Robin's
 - Pass out
 
 ### Summer 10, Y2
+- Receive bouquet from Emily player
 - Chop Trees
-- Birthday Gift, Bouquet, Talk to Maru in her bedroom at 9am
+- Gift Maru a cauliflower, then the bouquet, then talk in her bedroom at 9am
 - Pass out
 
 ### Summer 11, Y2
 - Give Emily Player 1 Gold cauliflower
 - SHIP EVERYTHING except for 2 Gold cauliflower. You only need 2 cauliflower, 1 for gifting and 1 for luau.
 - Chop Trees
-- Gift at 8:10am between Robin's house and the clinic (Maru walking to work)
+- Gift a cauliflower to Maru at 8:10am between Robin's house and the clinic (Maru walking to work)
 - Luau at 9am (Gold cauliflower)
 
 ### Summer 13 (or 12 if raining), Y2

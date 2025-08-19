@@ -15,6 +15,11 @@ Play as: Girl
 Farm: Beach Farm  
 Patch: 1.6 with Legacy RNG  
 
+Extra options:
+- Starting Cabins: 1
+- Cabin Layout: Nearby
+- Money Style: Separate
+
 ## Miscellaneous notes
 
 Emily loves
@@ -86,7 +91,7 @@ Start watering cauliflower on the 15th through the 25th (+ any rain days)
 ### Winter 9, Y1
 - Read all mail for gifts, reset day if necessary
 - Drink Coffee if available
-- Clay farm at beach (86), starting from one of the following spots
+- Winter forage farm at the beach (86), starting from one of the following spots
   ![Winter forage farming spots](../../../img/multi_2p_emily_maru_winter_forage.png)
 - TALK TO PIERRE
 - Buy Apricot Sapling from Pierre for 2,000 (Sell snow yams as necessary)
@@ -96,7 +101,7 @@ Start watering cauliflower on the 15th through the 25th (+ any rain days)
 ### Winter 11, Y1
 - Plant apricot sapling
 - Drink Coffee if available
-- Clay farm at beach (86), starting from the same spot as Winter 9
+- Winter forage farm at the beach (86), starting from the same spot as Winter 9
 - Gift Emily in her bedroom (Leaves home for clinic at 10:30am)
 - Pass out
 
@@ -121,6 +126,7 @@ Start watering cauliflower on the 15th through the 25th (+ any rain days)
 - Pass out
 
 ### Summer 10, Y2
+- Give Maru player a bouquet
 - Chop Trees
 - Bouquet, Loved Gift, Apricot, Talk to Emily in her bedroom at 9am
 - Pass out
