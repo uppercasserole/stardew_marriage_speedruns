@@ -5,11 +5,6 @@
 ## Required Tech
 - [Winter Forage Farming](../../tech/winter_forage_farming.md)
 
-## Miscellaneous notes
-
-- All Leah gifts are salads
-- All Leah gifting is done inside of her cottage unless explicitly stated
-
 ## Setup
 
 Play as: Girl  
@@ -25,8 +20,8 @@ Sleep until Winter 22nd
 - Clay farm until 11:00am (eat winter forage if you are out of stamina and it's not yet 11)
 - TALK TO PIERRE
 - Sell 17 Snow yam to Pierre
-- Buy 2 coffee and 7 salads
-- Gift Leah outside saloon
+- Buy 2 coffee and 7 salads in the saloon at 12pm
+- Gift a salad and talk to Leah outside the saloon
 - Pass out
 
 ### Winter 23, Y1
@@ -35,7 +30,7 @@ Sleep until Winter 22nd
 - Drink second coffee on expiry
 - Clay farm until 9:20am (+ exhaustion time)
 - Sell everything to Pierre
-- Gift Leah
+- Gift a salad and talk to Leah in her cottage at 10am
 - Pass out
 
 ### Winter 28, Y1
@@ -43,37 +38,41 @@ Sleep until Winter 22nd
 - Chop trees
 - Get to Robins by 9
 - Buy 450 wood and upgrade house
-- Gift Leah
+- Gift a salad and talk to Leah in her cottage at 10am
 - Pass out
 
 ### Spring 2, Y2
 - Chop Trees
-- Gift Leah at 10am
+- Gift a salad and talk to Leah in her cottage at 10am
 - Pass out
 
 ### Y2 Spring 24
 - Chop Trees
 - Flower dance at 9am
 - Talk to Everyone
+- Dance with Leah
 - Sleep
 
 ### Winter 23, Y2
 - Clay farm until 9:20am (+ exhaustion time)
-- Gift Leah
+- Gift a salad and talk to Leah in her cottage at 10am
 - Pass out
 
 ### Spring 24, Y3
 - Chop Trees
 - Flower dance at 9am
+- Dance with Leah
 - Sleep
 
 ### Winter 23, Y3
 - Clay farm until 8:50am (+ exhaustion time)
-- Sell everything to Pierre
+- Go to Pierres and sell all winter forage
 - Buy Bouquet from Pierre
-- Bouquet + Birthday Gift
+- Gift Bouquet, then salad and talk to Leah in her cottage at 10am
 - Pass out
 
 ### Rainy Day
 - Buy Mermaid Pendant
-- Propose
+- Propose to Leah in her cottage at 10am
+- Pass out
+- Sleep until win

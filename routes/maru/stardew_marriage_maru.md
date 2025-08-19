@@ -116,8 +116,8 @@ Patch: 1.5, or 1.6 with Legacy RNG
 - Should get "Best Friends" achievement while sleeping
 
 ### Rainy Day, Y2
-- Chop trees as necessary (need 300 wood)
 - Check mail for up to 1,000g if necessary (need 5,000g)
+- Chop trees as necessary (need 300 wood)
 - Buy mermaids pendant at the beach
 - Propose to Maru in her bedroom at 9am
 - Pass out
