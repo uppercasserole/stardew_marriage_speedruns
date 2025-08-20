@@ -110,7 +110,7 @@ Extra options:
   @: Spot to till
   ```
 - Chop trees as time permits
-- Gift pumpkin outside of Abigail's bedroom at 9am
+- Gift pumpkin and talk to Abigail outside of her bedroom at 9am
 - Pass out
 
 Start watering all pumpkins on the 16th (+ any rain days)
@@ -135,33 +135,34 @@ Start watering all pumpkins on the 16th (+ any rain days)
 - Read single letter from mailbox for fishing rod
 - Winter forage farm on the beach (66). If clay manip was done, start on tile pictured below:
   ![Winter forage tilling location](../../img/abigail_winter_forage_manip_2.png)
-- Gift pumpkin in Abigail's bedroom at 9am or in Pierre's kitchen after that
+- Gift pumpkin and talk to Abigail in her bedroom at 9am or in Pierre's kitchen after that
 - Pass out
 
 ### Winter 13, Y1
 - Winter forage farm on the beach (66), starting from the same tile.
-- Gift pumpkin in Abigail's bedroom at 9am
+- Gift pumpkin and talk to Abigail in her bedroom at 9am 
 - Pass out
 
 ### Winter 14, Y1
 - Go to extra cabin and punch parsnips to half stamina
 - Winter forage farm on the beach (66), starting from the same tile.
-- Gift pumpkin in Abigail's bedroom at 9am
+- Gift pumpkin and talk to Abigail in her bedroom at 9am 
 - Answer her question with option 2: "I like the orc with the battleaxe."
 - Pass out
 
 ### Spring 24, Y2
 - Chop trees (should get at least 300 wood)
 - If time permits, break crates on the beach for coffee
-- Gift outside of Pierre's at 10:30am
+- Gift pumpkin and talk to Abigail outside of Pierre's at 10:30am 
 - Flower dance
 - Talk to everyone (except for Pierre, we get Pierre later)
+- Dance with Abigail
 - Sleep
 
 ### Fall 13, Y2
 - Chop trees (absolutely need 450 wood before leaving farm)
 - Drink coffee at 8:50am if you have any
-- Gift pumpkin in Abigail's bedroom at 9:00am
+- Gift pumpkin and talk to Abigail in her bedroom at 9am
 - Sell 10,200 worth of winter forage to Pierre
 - Buy bouquet
 - Go to Robins and upgrade house
@@ -169,15 +170,16 @@ Start watering all pumpkins on the 16th (+ any rain days)
 
 ### Fall 18, Y2
 - Chop trees
-- Bouquet + Gift pumpkin in Abigail's bedroom at 9:00am
+- Gift bouquet, then pumpkin, then talk to Abigail in her bedroom at 9am
 - Pass out
 
 ### Rainy day (should rain on either the 19th or 21st)
 - Read mail for up to 1000g if necessary (5000g required for pendant)
 - Chop trees if necessary (300 wood required for bridge)
-- Gift pumpkin in Abigail's bedroom at 9:00am
+- Gift pumpkin and talk to Abigail in her bedroom at 9am 
 - TALK TO PIERRE
 - Sell all remaining winter forage to Pierre
 - Buy Mermaid's Pendant
 - Propose
-- Pass out and sleep until win
+- Pass out 
+- Sleep until win
