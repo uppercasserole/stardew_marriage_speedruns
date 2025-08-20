@@ -4,6 +4,7 @@
 
 ## Required Tech
 - [Winter Forage Farming](../../tech/winter_forage_farming.md)
+- [Winter Forage Farming in Town](../../tech/winter_forage_farming_in_town.md)
 - [Golden Crop Manipulation](../../tech/golden_crop_manipulation.md)
 
 ## Setup
@@ -113,7 +114,7 @@ This route takes advantage of specific dialogue options that Alex gives on Wedne
 
 ### Winter 5
 - Winter forage farm outside of Alex's house (19 -> 1)
-  ![Winter forage pattern](../../img/alex_winter_forage.png)
+  ![Winter forage pattern](../../img/winter_forage_in_town_all.png)
 - Gift bok choy and talk to Alex in his house at 8am
 - Pass out
 
