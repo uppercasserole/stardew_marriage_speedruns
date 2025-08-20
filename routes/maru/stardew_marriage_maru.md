@@ -43,12 +43,11 @@ Patch: 1.5, or 1.6 with Legacy RNG
 ### Spring 7, Y1
 - Plant, water, and fertilize cauliflower (craft basic fertilizer with sap)
   ```
-  6~~~~~~
-  ~~~~~~~
   7~~7~~@
   ~~~~~7~
   6~~~~~~
   ~~6~~6~
+  7~~~~~~
   
   Legend:
   @: Gold quality parsnip spot  
