@@ -1,6 +1,6 @@
 # Emily Marriage 
 
-[Video of run](...)
+[Video of run](https://youtu.be/5VMDdIt1mdY?si=npPYr-DrsHDb8_sq&t=4265)
 
 ## Required Tech
 - [Winter Forage Farming](../../tech/winter_forage_farming.md)
@@ -27,16 +27,15 @@ Patch: 1.6 with Legacy RNG
 - Reset floor 5 for amethyst
   ![Amethyst Location](../../img/day_27_amethyst.png)
 - Punch dwarf rock down to 1 stamina
-- Gift Emily outside of her bedroom at 12pm
+- Gift a loved gift and talk to Emily outside of her bedroom at 12pm
 - Pass out
-
 
 ### Winter 6, Y1
 - Punch parsnips to roughly half stamina
 - Read all mail, reset day for loved gifts if necessary
 - Leave via south exit on farm, breaking beach crates
 - Winter forage farm on the beach (8 or 31 if time permits)
-- Gift Emily a loved gift AND an amethyst in her bedroom at 9am
+- Gift a loved gift AND an amethyst and talk to Emily in her bedroom at 9am
 - Pass out
 
 ### Winter 7, Y1
@@ -46,18 +45,18 @@ Patch: 1.6 with Legacy RNG
 ### Winter 19, Y1
 - Punch parsnips to half stamina
 - Winter forage farm on the beach (66), starting from the same tile.
-- Gift Emily in her bedroom at 9am
+- Gift a loved gift and talk to Emily in her bedroom at 9am
 - Pass out
 
 ### Winter 20, Y1
 - Winter forage farm on the beach (66), starting from the same tile.
-- Gift Emily in her bedroom at 9am
+- Gift a loved gift and talk to Emily in her bedroom at 9am
 - Pass out
 
 ### Winter 21, Y1
 - Winter forage farm on the beach (66), starting from the same tile.
 - Drink coffee at 8:50 if available
-- Gift Emily in her bedroom at 9am
+- Gift a loved gift and talk to Emily in her bedroom at 9am
 - Go to Pierre's
 - Sell all winter forage and buy Apricot Sapling
 - Go to Robin's
@@ -65,27 +64,29 @@ Patch: 1.6 with Legacy RNG
 - Pass out
 
 ### Winter 22, Y1
-- Plant Apricot Sapling
+- Plant Apricot Sapling at back of spouse area (to keep safe from debris)
+  ![Apricot spot](../../img/emily_apricot.png)
 - Winter forage farm on the beach (66), starting from the same tile.
-- Gift Emily in her bedroom at 9am
+- Gift a loved gift and talk to Emily in her bedroom at 9am
 - Pass out
 
-### Spring 24, Y1
+### Spring 24, Y2
 - Read all mail, reset day for loved gifts if necessary
 - Chop trees
 - Collect beach crates for speed food, as time permits
 - Flower dance at 9am
 - Talk to Everyone (except for Pierre)
+- Dance with Emily
 - Sleep
 
-### Spring 27
+### Spring 27, Y2
 - Consume speed food at start of day
-- Chop trees up to 300 wood and Chop apricot sapling
-- Gift Emily in her bedroom at 9am
+- Chop trees as necessary (need 300 wood), chop apricot sapling
+- Gift a loved gift to Emily in her bedroom at 9am
 - Go to Pierre's
 - TALK TO PIERRE
 - Sell all winter forage and apricot sapling, buy bouquet
-- Gift Emily Bouquet and Apricot in her bedroom
+- Gift a bouquet and an apricot and talk to Emily in her bedroom
 - Buy Mermaids pendant
 - Propose
 - Pass out
