@@ -1,9 +1,8 @@
 TODO: Video of run  
-TODO: Screenshots
 
 # Maru Marriage 
 
-[Video of run](...)
+No Video of run :(
 
 ## Required Tech
 - [Winter Forage Farming](../../tech/winter_forage_farming.md)
@@ -21,11 +20,11 @@ Patch: 1.5, or 1.6 with Legacy RNG
 - Plant parsnips
 - Sleep
 
-### Spring 2, Y1
+### Spring 4, Y1
 - Water parsnips
 - Sleep
 
-### Spring 4, Y1
+### Spring 5, Y1
 - Water parsnips
 - Sleep
 
@@ -42,6 +41,7 @@ Patch: 1.5, or 1.6 with Legacy RNG
 
 ### Spring 7, Y1
 - Plant, water, and fertilize cauliflower (craft basic fertilizer with sap)
+  ![Maru Crop Manip](../../img/maru_crop_manip.png)
   ```
   7~~7~~@
   ~~~~~7~
@@ -59,9 +59,23 @@ Patch: 1.5, or 1.6 with Legacy RNG
 - Count rainy days
 - Sleep
 
-### Spring 15-28, Y1
-- Start watering cauliflower on the 15th (delaying by 1 day per rainy day)
-- Harvest appropriate cauliflower on the 26th and 27th (should all be gold quality)
+### Spring 15-25, Y1
+- Water cauliflower every day starting on the 15th (delaying by 1 day per rainy day)
+- Sleep
+
+### Spring 26, Y1
+- Harvest cauliflower marked 6 (should all be gold)
+  ```
+  7~~7~~@
+  ~~~~~7~
+  6~~~~~~
+  ~~6~~6~
+  7~~~~~~
+  ```
+- Sleep
+
+### Spring 27, Y1
+- Harvest remaining cauliflower (should all be gold)
 - Sleep
 
 ### Summer 10, Y1
@@ -100,7 +114,7 @@ Patch: 1.5, or 1.6 with Legacy RNG
 - Sleep
 
 ### Summer 10, Y2
-- Chop trees
+- Chop trees (need at least 450 wood)
 - Gift a cauliflower and talk to Maru in her bedroom at 9am
 - Upgrade house
 - Pass out
