@@ -122,6 +122,7 @@ Patch: 1.5, or 1.6 with Legacy RNG
 ### Summer 13, Y2
 - Chop trees
 - Go to Pierre's at 9am
+- Drink coffee if available
 - Buy Bouquet, sell everything except for cauliflower
 - Gift bouquet, then cauliflower, then talk to Maru in her bedroom
 - Talk to Demetrius in the lab, triggering talk to everyone
