@@ -2,21 +2,6 @@
 
 [Video of run](https://youtu.be/E7758iuytcg)
 
-
-
-https://youtu.be/E7758iuytcg
-
-
-
-
-
-![Video of run](https://youtu.be/E7758iuytcg)
-
-
-
-
-
-
 ## Required Tech
 - [Winter Forage Farming](../../tech/winter_forage_farming.md)
 - [Winter Forage Farming in Town](../../tech/winter_forage_farming_in_town.md)
