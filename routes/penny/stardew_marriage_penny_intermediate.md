@@ -93,14 +93,14 @@ Patch: 1.6 with Legacy RNG
 - Sleep
 - A single regular quality Poppy is OK, as long as it isn't gifted on a birthday (Fall 2)
 
-### Fall 2, Y2
+### Fall 2, Y1
 - Chop trees
 - Gift a poppy and talk to Penny in her house at 9am
 - Leave her house to trigger 2 heart cutscene, answer with option 1: "I was. You did a kind thing there, Penny."
 - Skip the cutscene as soon as you choose the text option
 - Pass out
 
-### Winter 8, Y2
+### Winter 8, Y1
 - Read single letter from mailbox for fishing rod
 - Winter forage farm on the beach (85)
 - Gift a poppy and talk to Penny in her house or reading near graveyard

@@ -34,3 +34,31 @@ After doing these 19 tills, we move over to the lower section
 ### Entire pattern at once
 
 ![Winter Forage All](../img/winter_forage_in_town_all.png)
+
+
+## Example
+
+In the [Alex intermediate route](../routes/alex/stardew_marriage_alex_intermediate.md) the notes on Winter 5, Y1 say:
+
+> ### Winter 5
+> - Winter forage farm outside of Alex's house (19 -> 1)
+>   ![Winter forage pattern](../img/winter_forage_in_town_all.png)
+> - Gift bok choy and talk to Alex in his house at 8am
+> - Pass out
+> 
+> ### Winter 6
+> - Winter forage farm outside of Alex's house (19 -> 24)
+> - Gift bok choy and talk to Alex in his house at 8am
+> - Pass out
+> 
+> ### Winter 7
+> - Winter forage farm outside of Alex's house (19 -> 13)
+> - Gift bok choy and talk to Alex in his house at 8am
+> - Pass out
+
+Like regular winter forage farming notes, it is asking you to perform a specific number of tills, so that the pattern is set up for future days. The numbers are split like (19 -> 24) which means you should do the first 19 tills, and then the next 24 tills. Something like (19 -> 1) means that you should do the 19 tills, then only a single till afterward.
+
+## Do it yourself
+
+Winter forage patterns can be figured out yourself using [BlaDe's Predictor](https://www.nexusmods.com/stardewvalley/mods/6614).
+

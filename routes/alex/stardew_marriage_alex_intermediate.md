@@ -112,18 +112,18 @@ This route takes advantage of specific dialogue options that Alex gives on Wedne
 - Harvest remaining bok choy (should all be gold)
 - Sleep
 
-### Winter 5
+### Winter 5, Y1
 - Winter forage farm outside of Alex's house (19 -> 1)
   ![Winter forage pattern](../../img/winter_forage_in_town_all.png)
 - Gift bok choy and talk to Alex in his house at 8am
 - Pass out
 
-### Winter 6
+### Winter 6, Y1
 - Winter forage farm outside of Alex's house (19 -> 24)
 - Gift bok choy and talk to Alex in his house at 8am
 - Pass out
 
-### Winter 7
+### Winter 7, Y1
 - Winter forage farm outside of Alex's house (19 -> 13)
 - Gift bok choy and talk to Alex in his house at 8am
 - Pass out
@@ -154,12 +154,12 @@ This route takes advantage of specific dialogue options that Alex gives on Wedne
 - Spend all but 10,000g buying wood from Robin, then upgrade house
 - Pass out
 
-### Spring 22
+### Spring 22, Y2
 - Chop trees
 - Gift bok choy and talk to Alex in his house at 8am
 - Pass out
 
-### Spring 24
+### Spring 24, Y2
 - Chop trees
 - Gift bok choy and talk to Alex outside his house at 8:30am
 - Pick option 2: "I want to play catch with you!"
@@ -167,7 +167,7 @@ This route takes advantage of specific dialogue options that Alex gives on Wedne
 - Talk to everyone
 - Sleep
 
-### Summer 13
+### Summer 13, Y2
 - Chop trees until 300 wood
 - Go to Pierre's at 9am
 - Sell everything (except for single bok choy) to Pierre, buy bouquet
