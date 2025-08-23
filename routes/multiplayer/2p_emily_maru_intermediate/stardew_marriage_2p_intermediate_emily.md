@@ -2,6 +2,9 @@
 
 To be paired with [Maru Notes](./stardew_marriage_2p_intermediate_maru.md)
 
+[Video of run](https://www.youtube.com/watch?v=ySR0mdkqDU4) Emily Perspective
+[Video of run](https://www.youtube.com/watch?v=PKmzaGYM168) Maru Perspective
+
 ## Required Tech
 - [Winter Forage Farming](../../../tech/winter_forage_farming.md)
 - [Crate Manipulation](../../../tech/crate_manipulation.md)

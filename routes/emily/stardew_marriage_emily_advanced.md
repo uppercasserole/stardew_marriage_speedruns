@@ -1,6 +1,6 @@
 # Emily Marriage 
 
-[Video of run](...)
+No video of run :(
 
 ## Required Tech
 - [Winter Forage Farming](../../tech/winter_forage_farming.md)

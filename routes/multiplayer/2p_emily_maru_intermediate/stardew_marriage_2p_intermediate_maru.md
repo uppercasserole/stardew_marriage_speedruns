@@ -2,6 +2,9 @@
 
 To be paired with [Emily Notes](./stardew_marriage_2p_intermediate_emily.md)
 
+[Video of run](https://www.youtube.com/watch?v=ySR0mdkqDU4) Emily Perspective
+[Video of run](https://www.youtube.com/watch?v=PKmzaGYM168) Maru Perspective
+
 ## Required Tech
 - [Winter Forage Farming](../../../tech/winter_forage_farming.md)
 - [Golden Crop Manipulation](../../../tech/golden_crop_manipulation.md)
