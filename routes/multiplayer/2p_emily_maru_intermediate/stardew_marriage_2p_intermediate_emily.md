@@ -24,14 +24,14 @@ Extra options:
 
 Emily loves
 - Amethyst, topaz, and other gems
-- Survival Burger (which can be found on the beach farm)
+- Survival Burger (which can be found in crates on the beach farm)
 - Wool and Cloth (which Emily will send you in the mail)
 
 Unlike most marriage routes which collect a consistent amount of gifts, all of Emily's gifts come from random sources. You'll need to use your judgement to decide if you have enough gifts or if you should spend time resetting mail or mining. Keep the following in mind:
 
 - You need only 6 gifts total + 1 amethyst for the entire run
 - You can get away with a single liked gift as long as it's not given on a birthday (Spring 27) and everything else is loved. Emily likes both quartz and daffodils which are easy to come by. Recommend gifting one of these on Summer 10, Y1.
-- You need at least 1 amethyst for quest purposes
+- You need at least 1 amethyst for quest purposes, do not leave the mines without one
 - On Spring 27, Y1, 2 gifts + 1 amethyst is usually good enough, 3 gifts + 1 amethyst is incredible.
 - On Winter 9, when checking mail, you need 4 gifts + 1 amethyst to finish the run, but you can also check beach crates and possibly get more mail as late as Summer 10, Y2
 

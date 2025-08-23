@@ -15,6 +15,20 @@ Play as: Girl
 Farm: Beach Farm  
 Patch: 1.6 with Legacy RNG
 
+## Miscellaneous notes
+
+Emily loves:
+- Amethyst, topaz, and other gems
+- Survival Burger (which can be found in crates on the beach farm)
+- Wool and Cloth (which Emily will send you in the mail)
+
+Unlike most marriage routes which collect a consistent amount of gifts, all of Emily's gifts come from random sources. You'll need to use your judgement to decide if you have enough gifts or if you should spend time extra time mining or resetting mail. Keep the following in mind:
+- You need 7 gifts total + 1 amethyst for the entire run.
+- You can get away with a single liked gift as long as it's not given on a birthday (Spring 27) and everything else is loved. Emily likes both quartz and daffodils which are easy to come by. Recommend gifting one of these on Winter 6, Y1.
+- You need at least 1 amethyst for quest purposes, do not leave the mines without one.
+- On Spring 27, Y1, 2 loved gifts + 1 amethyst is usually good enough to finish the run with mail and crates, 3 gifts + 1 amethyst is very good.
+- On Winter 6, when checking mail, you need 5 gifts + 1 amethyst to get through winter, consider resetting mail if you do not have enough. You do get to check crates on the beach also.
+
 ## Route
 
 - Sleep until Spring 27
