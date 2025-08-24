@@ -16,4 +16,16 @@ This drains stamina at a very fast rate, allowing you to set up your stamina lev
 
 ## Example
 
+In the [Beginner Emily route](../routes/emily/stardew_marriage_emily_beginner.md), the notes for Spring 27, Y1 say:
+
+> ### Spring 27, Y1
+> - Read all mail
+> - Go to mines, get to floor 5
+> - Reset floor 5 for amethyst
+>   ![Amethyst Location](../img/day_27_amethyst.png)
+> - Punch dwarf rock down to 1 stamina
+> - Go to beach, get Fishing rod
+> - Gift a loved gift and talk to Emily outside of her bedroom at 12pm
+> - Pass out
+
 In an Emily marriage speedrun, we leave from the mines heading to Emily's house, from which we want to pass out to return home quickly. As we leave the mines, we punch the dwarf rock until we have 1 stamina left so that we can pass out quickly from Emily's house.

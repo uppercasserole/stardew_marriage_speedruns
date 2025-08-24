@@ -61,4 +61,3 @@ Like regular winter forage farming notes, it is asking you to perform a specific
 ## Do it yourself
 
 Winter forage patterns can be figured out yourself using [BlaDe's Predictor](https://www.nexusmods.com/stardewvalley/mods/6614).
-

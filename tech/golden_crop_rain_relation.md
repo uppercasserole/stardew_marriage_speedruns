@@ -1,6 +1,6 @@
 # Golden Crop/Rain Relation
 
-An advanced version of [Golden Crop Manipulation](./golden_crop_manipulation.md) and [Rain Prediction](./rain_prediction.md). Golden crop/rain relation is a form of RNG manipulation which uses rain patterns to predict golden quality crops, or golden quality crop locations to predict rain.
+An advanced version of [Golden Crop Manipulation](./golden_crop_manipulation.md) and [Rain Prediction](./rain_prediction.md). Golden crop/rain relation is a form of RNG manipulation which uses rain patterns to predict golden quality crops, or golden quality crop locations to predict rain. This tech can be done on patch 1.6 with legacy RNG enabled only.
 
 ## Overview
 

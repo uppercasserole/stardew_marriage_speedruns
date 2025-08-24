@@ -1,3 +1,7 @@
+TODO: Format  
+TODO: Create doc for winter forage farming outside of Shanes house
+
+
 Rain on 7 and NOT 11
 
 Spring 20

@@ -4,7 +4,7 @@ Crate manipulation is tech which allows the contents of crates in the mines to b
 
 ## Overview
 
-The "random" contents of a crate is determined completely by
+The "random" contents of a crate in the mines is determined completely by
 - The in-game date
 - The floor
 - The location of the crate on the floor
@@ -15,11 +15,21 @@ Crate manipulation is simply knowing that a particular crate location on a speci
 
 ## Example
 
-In an Emily marriage speedrun, we always go to the mines on the 27th of Spring, Year 1 looking for amethyst. It so happens that on floor 5, there is a large group of crates, one of which will always contain an amethyst.
+In the [Beginner Emily route](../routes/emily/stardew_marriage_emily_beginner.md), the notes for Spring 27, Y1 say:
 
-![Amethyst Location](../img/day_27_amethyst.png)
+> ### Spring 27, Y1
+> - Read all mail
+> - Go to mines, get to floor 5
+> - Reset floor 5 for amethyst
+>   ![Amethyst Location](../img/day_27_amethyst.png)
+> - Punch dwarf rock down to 1 stamina
+> - Go to beach, get Fishing rod
+> - Gift a loved gift and talk to Emily outside of her bedroom at 12pm
+> - Pass out
 
-The floor can be reset repeatedly, looking for a crate in that specific spot. Whenever a crate spawns there, you can break that one crate, grab the amethyst, and then reset the floor again looking for another crate in the same spot.
+The emily marriage route calls for several amethysts to be given as gifts. It so happens that on floor 5, there is a large group of crates, one of which will always contain an amethyst on Spring 27th.
+
+The floor can be "reset" repeatedly (ie: leaving via the elevator and reloading the floor), looking for a crate in that specific spot. Whenever a crate spawns there, you can break that one crate, grab the amethyst, and then reset the floor again looking for another crate in the same spot.
 
 ![Amethyst](../img/day_27_amethyst.gif)
 
