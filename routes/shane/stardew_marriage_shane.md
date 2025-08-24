@@ -16,7 +16,7 @@ Gift Beer
 Summer 1
 Plant peppers via mixed seeds
 Gift Beer
-Place chair outside of Shanes house
+Place chair outside of Shane's house
 
 Water starting on the 13th - rain days
 Water starting on the 23rd - rain days

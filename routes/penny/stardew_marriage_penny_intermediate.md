@@ -6,6 +6,7 @@
 - [Winter Forage Farming](../../tech/winter_forage_farming.md)
 - [Rain Prediction](../../tech/rain_prediction.md)
 - [Golden Crop Manipulation](../../tech/golden_crop_manipulation.md)
+- [Golden Crop/Rain Relation](../../tech/golden_crop_rain_relation.md)
 
 ## Setup
 
