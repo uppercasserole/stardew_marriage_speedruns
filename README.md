@@ -4,7 +4,7 @@ This repository is a comprehensive collection of route notes and resources for S
 
 ## Getting Started
 
-Using the left hand navigation, go into the `routes/` folder and find whichever route notes you are interested. All route notes contain a `Required Tech` section explaining the speedtech you will need in order to complete that run.
+Using the left hand navigation, go into the `routes/` folder and find whichever route notes you are interested. All route notes contain a `Required Tech` section explaining the speedtech you will need to learn in order to complete that run.
 
 ## FAQ
 
