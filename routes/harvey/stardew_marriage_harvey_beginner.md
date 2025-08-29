@@ -4,19 +4,16 @@
 
 ## Required Tech
 - [Winter Forage Farming](../../tech/winter_forage_farming.md)
-- [Rain Prediction](../../tech/rain_prediction.md)
 
 ## Setup
 
 Play as: Girl  
 Farm: Beach Farm  
-Patch: 1.6 with Legacy RNG
+Patch: 1.5, or 1.6 with Legacy RNG
 
 ## Route
 
 - Sleep until winter
-- Reset on sunny Spring 6th
-- Reset on sunny Spring 25th
 
 ### Winter 12, Y1
 - Head to beach via south of farm, break crates for coffee (hopefully)
@@ -80,11 +77,15 @@ Patch: 1.6 with Legacy RNG
 - Sleep
 
 ### Spring 25, Y3
+- Chop trees
+- Gift coffee to Harvey in clinic at 9am
+- If it is raining, buy Mermaids Pendant and propose
+- Pass out
+
+### Rainy day
 - Check mail for up to 1,000g if necessary (need 5,000g)
 - Chop trees as necessary (need 300 wood)
-- Drink coffee and eat speed food, if possible
-- Gift coffee to Harvey in clinic at 9am
 - Buy Mermaids Pendant
-- Propose
+- Propose to Harvey in the clinic at 9am
 - Pass out
 - Sleep until win

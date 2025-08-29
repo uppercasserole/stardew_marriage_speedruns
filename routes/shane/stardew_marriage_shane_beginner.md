@@ -54,7 +54,6 @@ Patch: 1.6 with Legacy RNG
 
 ### Winter 3, Y1
 - Winter forage farm outside of Shane's house (38)
-- Chop trees as able
 - Gift pepper and talk to Shane outside his house at 7:15am
 - Sleep
 
@@ -66,7 +65,6 @@ Patch: 1.6 with Legacy RNG
 
 ### Winter 10, Y1
 - Winter forage farm outside of Shane's house (38)
-- Chop trees as able
 - Gift pepper and talk to Shane outside his house at 7:15am
 - Sleep
 
@@ -78,7 +76,6 @@ Patch: 1.6 with Legacy RNG
 
 ### Winter 17, Y1
 - Winter forage farm outside of Shane's house (38)
-- Chop trees as able
 - Gift pepper and talk to Shane outside his house at 7:15am
 - Sleep
 
@@ -89,7 +86,6 @@ Patch: 1.6 with Legacy RNG
 
 ### Winter 24, Y1 (Skip if you got a gold quality pepper)
 - Winter forage farm outside of Shane's house (38)
-- Chop trees as able
 - Gift pepper and talk to Shane outside his house at 7:15am
 - Sleep
 

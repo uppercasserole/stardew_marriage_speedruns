@@ -1,8 +1,6 @@
-TODO: Video of run  
-
 # Maru Marriage 
 
-No video of run :(
+[Video of run](https://www.youtube.com/watch?v=9ijBL5QxxIU)
 
 ## Required Tech
 - [Winter Forage Farming](../../tech/winter_forage_farming.md)
