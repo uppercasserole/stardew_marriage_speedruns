@@ -2,10 +2,12 @@ TODO: Create doc for winter forage farming outside of Shanes house
 
 # Shane Marriage 
 
-[Video of run](https://youtu.be/KRrtZquj4Xc)
+[Video of run](https://www.youtube.com/watch?v=Qu2HCELQ33Q)
 
 ## Required Tech
 - [Winter Forage Farming](../../tech/winter_forage_farming.md)
+- [Rain Prediction](../../tech/rain_prediction.md)
+- [Golden Crop Rain Relation](../../tech/golden_crop_rain_relation.md)
 
 ## Setup
 
@@ -15,8 +17,12 @@ Patch: 1.6 with Legacy RNG
 
 ## Route
 
+- Sleep until Spring 20, Y1
+- Reset on rainy 6th
+- Reset on sunny 7th
+- Reset on rainy 11th
+
 ### Spring 20, Y1
-- Reset if it is raining
 - Chop trees
 - Get 24+ mixed seeds
 - Clear out space at bottom of farm for house movement
@@ -25,26 +31,36 @@ Patch: 1.6 with Legacy RNG
   ![House location](../../img/shane_house_location.png)
 - Buy up to 50 wood from Robin if you are confident that you have enough forage money for beers
 - Sell all forage to Pierre
-- TALK TO PIERRE
 - Buy 2 beer, and 2 coffee (if able) from saloon at 12pm
 - Gift beer and talk to Shane as he walks into town
 - Pass out
 
 ### Summer 1, Y1
+
 - Plant peppers (via mixed seeds) and water. Need 5 pepper plants. Identify peppers via seed shape, uproot bad seeds with pickaxe.   Left to right, these are pepper seeds, corn seeds, radish seeds, and wheat seeds.  
   ![Summer Seeds](../../img/summer_seeds.png)   
+- Plant peppers in the following spots
+  ![Planting spots](../../img/shane_crop_manip.png)
+  ```
+  HHHSSSHHM~~~~
+  ~X~~X~XX~X~~X
+  
+  Legend:
+  H: House
+  S: Steps of house
+  M: Mailbox
+  X: Plant peppers here
+  ```
 - Gift beer and talk to Shane outside his house at 7:15am
 - (Optional) Place chair outside Shane's house if you're confident
 
-### Summer 2-20, Y1
-- Count rainy days
-- Sleep
+### Rest of summer, Y1
 
-### Summer 21-28, Y1
-- Start watering peppers on the 21st (delaying by 1 day per rainy day)
-- Harvest on the 25th, keep watering, and harvest again on the 28th
-- Sleep
-- If you got a gold quality pepper, save it for Shane's birthday (Spring 20, Y2)
+- Water peppers on the 13th - 16th (delaying by 1 day per rainy day)
+- Harvest peppers on the 17th
+- Water peppers on the 23rd - 25th (delaying by 1 day per rainy day)
+- Harvest peppers on the 26th
+- Reset if no gold quality pepper
 
 ### Winter 2, Y1
 - Winter forage farm outside of Shane's house (20)
@@ -84,18 +100,12 @@ Patch: 1.6 with Legacy RNG
 - Gift pepper and talk to Shane outside his house at 7:15am
 - Sleep
 
-### Winter 24, Y1 (Skip if you got a gold quality pepper)
-- Chop trees as able
-- Gift pepper and talk to Shane outside his house at 7:15am
-- Sleep
-
 ### Spring 20, Y2
-- IF IT IS RAINING: Do the steps below, but note that Shane will leave his house at 7:15am to head to Joja mart, rather than be in his kitchen at 9am
 - Check all mail
 - Eat pepper poppers if available
 - Chop trees
 - Drink coffee at 8:50am if available
-- Gift pepper (gold quality if available) and talk to Shane in his house at 9am
+- Gift gold quality pepper and talk to Shane in his house at 9am
 - Go to Pierre's
 - Sell all winter forage, pizzas, and all but 1 pepper poppers, buy bouquet
 - Go to Robin's
@@ -109,15 +119,16 @@ Patch: 1.6 with Legacy RNG
 - Return to farm
 - Continue chopping trees as able
 - Flower Dance at 9am
-- Talk to everyone
+- DO NOT talk to everyone
 - Dance with Shane
 - Sleep
 
-### Rainy Day
+### Spring 25
 - Eat pepper poppers and drink coffee if available
 - Check mail for up to 1,000g if necessary (need 5,000g)
 - Chop trees as necessary (need 300 wood)
-- Buy Mermaids Pendant
-- Propose outside of Shane's house at 7:15
-- Sleep
+- Gift pepper and talk to Shane outside his house at 7:15am
+- Buy mermaids pendant
+- Propose to Shane on his way to work
+- Return home and sleep, or pass out
 - Sleep until win

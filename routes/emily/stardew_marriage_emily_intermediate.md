@@ -69,7 +69,7 @@ Unlike most marriage routes which collect a consistent amount of gifts, all of E
 
 ### Winter 21, Y1
 - Winter forage farm on the beach (66), starting from the same tile.
-- Drink coffee at 8:50 if available
+- Drink coffee at 8:50am if available
 - Gift a loved gift and talk to Emily in her bedroom at 9am
 - Go to Pierre's
 - Sell all winter forage and buy Apricot Sapling
