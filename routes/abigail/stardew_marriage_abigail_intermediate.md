@@ -114,7 +114,7 @@ Extra options:
 - Gift pumpkin and talk to Abigail outside of her bedroom at 9am
 - Pass out
 
-Start watering all pumpkins on the 16th (+ any rain days)
+Start watering all pumpkins on the 16th (delaying by 1 day per rainy day)
 
 ### Fall 27, Y1
 - Harvest pumpkins marked 7
