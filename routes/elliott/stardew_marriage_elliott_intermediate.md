@@ -22,8 +22,8 @@ Patch: 1.6 with Legacy RNG
   ~~~HHHHSSSHHM~~~~~~
   ~~~~~~~~P~~~P~~~PPP
   ~~T~~~@~PPPPPPPPP~~
-  ~~~~~@~~@~~@~~@~~~~
-  ~~~~~~~~~~@~~@~~~~~
+  ~~~~~@@@@@@@@@@~~~~
+  ~~~~~~~~~~@@@@~~~~~
   Legend:
   H = House
   S = Steps of house
@@ -33,8 +33,6 @@ Patch: 1.6 with Legacy RNG
   @ = Plant parsnip here
   ```
 - Sleep
- 
-
 - Reset if rainy 6th
 - Reset if sunny 7th
 
@@ -45,6 +43,7 @@ Patch: 1.6 with Legacy RNG
 
 ### Fall 5, Y1
 - Chop trees
+- Open beach crates for coffee
 - Harvest clay on the beach 1 tile up from regular pattern start
 - Gift gold parsnip and talk to Elliott outside his cabin at 11am
 - Pass out
@@ -60,7 +59,7 @@ Patch: 1.6 with Legacy RNG
 - Pass out
 
 ### Winter 13, Y1
-- Winter forage farm on the beach (66), starting from the same tile.
+- Winter forage farm on the beach (67), starting from the same tile.
 - Gift parsnip at 8:00am
 - Go to Pierre's
 - Sell exactly 6,000g worth of winter forage
@@ -75,6 +74,7 @@ Patch: 1.6 with Legacy RNG
 ### Fall 5, Y2
 - Chop Trees
 - Harvest pomegranates
+- Open beach crates for coffee
 - Gift pomegranate and talk to Elliott outside his cabin at 11am
 - Pass out
 
@@ -96,6 +96,7 @@ Patch: 1.6 with Legacy RNG
 ### Spring 24, Y3
 - Put exactly 10,000g worth of winter forage into the shipping bin
 - Chop trees
+- Open beach crates for coffee
 - Gift pomegranate and talk to Elliott outside his cabin at 12:00pm
 - Flower dance
 - Talk to everyone (except for Pierre)
@@ -121,7 +122,7 @@ Patch: 1.6 with Legacy RNG
 ### Day before rainy day, Y3
 - Chop trees
 - Buy bouquet from Pierre at 9am (sell winter forage if necessary)
-- Gift silver pomegranate and talk to Elliott in his cabin at 10am
+- Gift bouquet then silver pomegranate and talk to Elliott in his cabin at 10am
 - Sleep
 
 ### Rainy day, Y3
