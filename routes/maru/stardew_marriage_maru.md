@@ -104,7 +104,7 @@ Patch: 1.5, or 1.6 with Legacy RNG
 - Pass out
 
 ### Spring 24, Y2
-- Put exactly 10k worth of forage into the shipping bin
+- Put exactly 10,000g worth of winter forage into the shipping bin
 - Chop trees
 - Flower dance at 9am
 - Talk to everyone except for Demetrius
