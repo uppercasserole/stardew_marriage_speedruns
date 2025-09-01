@@ -117,7 +117,7 @@ Patch: 1.6 with Legacy RNG
 - Given the rain prediction that we did, do the following:
   - If it rains on the 12th, go out on the 13th. It will rain on the 14th.
   - If it doesn't rain on the 12th, check the forecast for rain on the 13th. If the forecast shows rain, go out on the 13th.
-  - Otherwise, go out on the 17th. It will rain on the 18th.
+  - Otherwise, go out on the 19th. It will rain on the 20th.
 
 ### Day before rainy day, Y3
 - Chop trees
