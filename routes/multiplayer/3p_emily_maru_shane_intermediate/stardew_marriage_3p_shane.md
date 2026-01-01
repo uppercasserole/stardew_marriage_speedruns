@@ -31,10 +31,12 @@ Relevant materials to not throw away: wood, sap
 # Spring 6
 
 - Plant all cauliflower spots
-    ~~~~~~~~~7~~7~
-    ~6~~6~~@~~~~~~
-    ~~~~~~6~~6~~6~
-    ~7~~7~~~~~~~~~
+  ```
+  ~~~~~~~~~7~~7~
+  ~6~~6~~@~~~~~~
+  ~~~~~~6~~6~~6~
+  ~7~~7~~~~~~~~~
+  ```
 - Assist with watering, if necessary
 - Sleep
 
@@ -125,7 +127,7 @@ Sleep
 - Gift Shane at 9:00am
 - Go to Robins
 - Upgrade house at Robins
-- Wait until EVERYONE has upgrade their house before passing out
+- Wait until EVERYONE has upgraded their house before passing out
 
 # Summer 10
 

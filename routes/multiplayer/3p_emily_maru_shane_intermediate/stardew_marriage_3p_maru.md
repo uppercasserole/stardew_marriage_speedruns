@@ -22,10 +22,12 @@ Relevant materials to not throw away: wood, sap
 - Harvest parsnips, mark gold spot
 - Pass all parsnips to Shane player
 - Prep cauliflower spots
-    ~~~~~~~~~7~~7~
-    ~6~~6~~@~~~~~~
-    ~~~~~~6~~6~~6~
-    ~7~~7~~~~~~~~~
+  ```
+  ~~~~~~~~~7~~7~
+  ~6~~6~~@~~~~~~
+  ~~~~~~6~~6~~6~
+  ~7~~7~~~~~~~~~
+  ```
 - Chop trees
 - Sleep at 9am
 
@@ -33,10 +35,12 @@ Relevant materials to not throw away: wood, sap
 
 - Craft at least 9 fertilizer (ideally 18 for Summer crops as well as Spring)
 - Fertilize all cauliflower spots
-    ~~~~~~~~~7~~7~
-    ~6~~6~~@~~~~~~
-    ~~~~~~6~~6~~6~
-    ~7~~7~~~~~~~~~
+  ```
+  ~~~~~~~~~7~~7~
+  ~6~~6~~@~~~~~~
+  ~~~~~~6~~6~~6~
+  ~7~~7~~~~~~~~~
+  ```
 - Sleep
 
 Start watering cauli on the 15th through the 25th (- rain days)
@@ -54,10 +58,12 @@ Start watering cauli on the 15th through the 25th (- rain days)
 # Spring 26
 
 - Harvest cauliflower marked 6
-    ~~~~~~~~~7~~7~
-    ~6~~6~~@~~~~~~
-    ~~~~~~6~~6~~6~
-    ~7~~7~~~~~~~~~
+  ```
+  ~~~~~~~~~7~~7~
+  ~6~~6~~@~~~~~~
+  ~~~~~~6~~6~~6~
+  ~7~~7~~~~~~~~~
+  ```
 - Sleep
 
 # Spring 27
@@ -75,9 +81,11 @@ Start watering cauli on the 15th through the 25th (- rain days)
 
 - Give Daffodils to Emily player, if any
 - Prepare, water and fertilize spots for peppers
-    ~9~~9~~9~~~~~~~~~
-    ~~~~~~9~~9@~9~~9~
-	~~~~~~~~~~~~~~9~~
+  ```
+  ~9~~9~~9~~~~~~~~~
+  ~~~~~~9~~9@~9~~9~
+  ~~~~~~~~~~~~~~9~~
+  ```
 - Grab 10 parsnips from chest
 - Goto Pierres at 9am
 - TALK TO PIERRE (technically not required, but Maru friendship is EXACT and having the out of talking to everyone at flower dance is a nice backup) 
@@ -138,7 +146,7 @@ Start watering peppers on the 5th through the 8th (- rain days)
 - Go to Robins
 - Gift Maru
 - Upgrade house at Robins
-- Wait until EVERYONE has upgrade their house before passing out
+- Wait until EVERYONE has upgraded their house before passing out
 
 # Summer 10
 

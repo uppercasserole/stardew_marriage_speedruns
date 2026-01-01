@@ -16,7 +16,7 @@ Patch: 1.6 with Legacy RNG
 ## Route
 
 ### Spring 1, Y1
-- Plant 7 parsnips
+- Plant 15 parsnips
   ```
   ~~~HHHHHHHHH~~~~~~~
   ~~~HHHHSSSHHM~~~~~~

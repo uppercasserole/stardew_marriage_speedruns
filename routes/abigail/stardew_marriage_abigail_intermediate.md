@@ -119,13 +119,13 @@ Start watering all pumpkins on the 16th (delaying by 1 day per rainy day)
 ### Fall 27, Y1
 - Harvest pumpkins marked 7
 - Sleep
-```
-8~~8~~
-~~~@~~
-7~~7~~
-~~~~~7
-8~~8~~
-```
+  ```
+  8~~8~~
+  ~~~@~~
+  7~~7~~
+  ~~~~~7
+  8~~8~~
+  ```
 
 ### Fall 28, Y1
 - Harvest remaining pumpkins

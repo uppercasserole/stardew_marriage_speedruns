@@ -28,10 +28,12 @@ Relevant materials to not throw away: wood, sap
 # Spring 6
 
 - Water all cauliflower spots
-    ~~~~~~~~~7~~7~
-    ~6~~6~~@~~~~~~
-    ~~~~~~6~~6~~6~
-    ~7~~7~~~~~~~~~
+  ```
+  ~~~~~~~~~7~~7~
+  ~6~~6~~@~~~~~~
+  ~~~~~~6~~6~~6~
+  ~7~~7~~~~~~~~~
+  ```
 - Sleep
 
 Start watering cauli on the 15th through the 25th (- rain days)
@@ -50,12 +52,14 @@ Start watering cauli on the 15th through the 25th (- rain days)
 # Spring 27
 
 - Go to floor 5 on the mines and manip as many amethyst as possible (leave mines at 11:00am at the latest)
-    ~~~###~~
-    ~######~
-    ~#@####~
-    ~~#####~
-    ~~####~~
-    ~~~###~~
+  ```
+  ~~~###~~
+  ~######~
+  ~#@####~
+  ~~#####~
+  ~~####~~
+  ~~~###~~
+  ```
 - Exhaust down to 1 stamina via dwarf rock
 - Run to Emilys house and gift Emily a topaz or amethyst at noon
 - Gather any daffodils on the way
@@ -125,7 +129,7 @@ Start watering peppers on the 5th through the 8th (- rain days)
 - Sell 30600 worth of winter forage, buy 3 bouquets
 - Go to Robins
 - Upgrade house at Robins
-- Wait until EVERYONE has upgrade their house before passing out
+- Wait until EVERYONE has upgraded their house before passing out
 
 # Summer 10
 

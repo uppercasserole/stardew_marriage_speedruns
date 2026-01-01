@@ -39,7 +39,7 @@ If she asks for a fish, these are the fish that can be caught on your first cast
 - Perch, River
 - Pike, River
 
-If you don't catch it on your first cast, give up. It may be correct to just ignore fist quests altogether as they likely to lose a fair amount of time.
+If you don't catch it on your first cast, give up. It may be correct to just ignore fish quests altogether as they likely to lose a fair amount of time.
 
 ## Route
 

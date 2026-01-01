@@ -71,15 +71,15 @@ Start watering cauliflower on the 15th through the 25th (+ any rain days)
 
 ### Spring 26, Y1
 - Harvest cauliflowers plated on 6s (should all be gold quality)
-```
-~~~6~~6~~~~
-~7~~@~~~~~~
-~~~~~~7~~7~
-~~~~~~~~~~~
-~~~6~~6~~~~
-~~~~~~~~~~~
-~~~7~~7~~~~
-```
+  ```
+  ~~~6~~6~~~~
+  ~7~~@~~~~~~
+  ~~~~~~7~~7~
+  ~~~~~~~~~~~
+  ~~~6~~6~~~~
+  ~~~~~~~~~~~
+  ~~~7~~7~~~~
+  ```
 - Sleep
 
 ### Spring 27, Y1
