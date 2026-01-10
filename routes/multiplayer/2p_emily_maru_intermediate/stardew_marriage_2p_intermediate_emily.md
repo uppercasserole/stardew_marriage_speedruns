@@ -2,8 +2,8 @@
 
 To be paired with [Maru Notes](./stardew_marriage_2p_intermediate_maru.md)
 
-[Video of run](https://www.youtube.com/watch?v=ySR0mdkqDU4) Emily Perspective
-[Video of run](https://www.youtube.com/watch?v=PKmzaGYM168) Maru Perspective
+[Video of run](https://www.youtube.com/watch?v=ySR0mdkqDU4) (Emily Perspective)  
+[Video of run](https://www.youtube.com/watch?v=PKmzaGYM168) (Maru Perspective)
 
 ## Required Tech
 - [Winter Forage Farming](../../../tech/winter_forage_farming.md)
@@ -126,6 +126,7 @@ Start watering cauliflower on the 15th through the 25th (+ any rain days)
 - Sell 20400 worth of winter forage, buy 2 bouquets
 - Go to Robin's
 - Upgrade house at Robin's
+- Wait until EVERYONE has upgraded their house before passing out
 - Pass out
 
 ### Summer 10, Y2
@@ -140,6 +141,7 @@ Start watering cauliflower on the 15th through the 25th (+ any rain days)
 - Chop Trees
 - Bring cauliflower to luau
 - Luau at 9am (Gold cauliflower)
+- Sleep
 
 ### Summer 13 (or 12 if raining), Y2
 - Read all mail

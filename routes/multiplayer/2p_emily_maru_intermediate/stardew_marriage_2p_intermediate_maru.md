@@ -2,8 +2,8 @@
 
 To be paired with [Emily Notes](./stardew_marriage_2p_intermediate_emily.md)
 
-[Video of run](https://www.youtube.com/watch?v=ySR0mdkqDU4) Emily Perspective
-[Video of run](https://www.youtube.com/watch?v=PKmzaGYM168) Maru Perspective
+[Video of run](https://www.youtube.com/watch?v=ySR0mdkqDU4) (Emily Perspective)  
+[Video of run](https://www.youtube.com/watch?v=PKmzaGYM168) (Maru Perspective)
 
 ## Required Tech
 - [Winter Forage Farming](../../../tech/winter_forage_farming.md)
@@ -123,6 +123,7 @@ Start watering cauliflower on the 15th through the 25th (+ any rain days)
 - Chop Trees
 - Gift a cauliflower to Maru in her bedroom at 9:30am
 - Upgrade house at Robin's
+- Wait until EVERYONE has upgraded their house before passing out
 - Pass out
 
 ### Summer 10, Y2
@@ -137,6 +138,7 @@ Start watering cauliflower on the 15th through the 25th (+ any rain days)
 - Chop Trees
 - Gift a cauliflower to Maru at 8:10am between Robin's house and the clinic (Maru walking to work)
 - Luau at 9am (Gold cauliflower)
+- Sleep
 
 ### Summer 13 (or 12 if raining), Y2
 - Read all mail
@@ -144,3 +146,4 @@ Start watering cauliflower on the 15th through the 25th (+ any rain days)
 - Buy Mermaids Pendant
 - Propose at 9am
 - Pass out
+- Sleep until win
