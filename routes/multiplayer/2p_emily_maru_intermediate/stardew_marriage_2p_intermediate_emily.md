@@ -102,7 +102,8 @@ Start watering cauliflower on the 15th through the 25th (+ any rain days)
 - Pass out
 
 ### Winter 11, Y1
-- Plant apricot sapling
+- Plant Apricot Sapling at back of spouse area (to keep safe from debris)
+  ![Apricot spot](../../../img/emily_apricot.png)
 - Drink Coffee if available
 - Winter forage farm at the beach (86), starting from the same spot as Winter 9
 - Gift Emily in her bedroom (Leaves home for clinic at 10:30am)
