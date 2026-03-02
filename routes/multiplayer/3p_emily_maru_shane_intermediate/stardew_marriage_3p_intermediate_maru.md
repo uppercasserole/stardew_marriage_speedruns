@@ -39,6 +39,7 @@ Extra options:
 
 ### Spring 5, Y1
 - Harvest all parsnips, mark gold spot
+- Pass all parsnips to Shane player
 - Prep cauliflower spots
   ![Crop Manip Cauliflower](../../../img/multi_3p_emily_maru_shane_crop_manip_cauliflower.png) 
   ```

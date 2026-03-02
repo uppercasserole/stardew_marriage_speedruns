@@ -72,7 +72,6 @@ Play as: Girl
 - Go south checking all beach crates for coffee/burgers
 - Ensure the space at the south of the farm is free of debris for house movement
   ![Shane Cabin](../../../img/multi_3p_shane_house.png) 
-- Gift parsnip to Shane after 9:00am (Catch him leaving his house at 7:15am if raining)
 - Go to Pierres and sell everything (wait for Maru player to give you stuff at Pierres)
 - Go to Saloon at noon, buy 2 beer, and as much coffee as possible
 - Gift beer and talk to Shane in front of Emilys house
