@@ -30,6 +30,7 @@ Other notes:
 - In early spring and summer, the only resources you care about are wood and sap (for fertilizer). All other resources can be tossed. 
 - After summer, Y1, only wood is needed
 - Forage should be grabbed whenever possible and stashed in the chest
+- When the notes say to chop trees, if you already have enough wood to finish the run, instead spend time gathering forage and putting it into the chest
 - Coffee should be used on winter 9th and 11th to speed up winter forage farming
 - 1 coffee and 1 pepper poppers should be saved for Spring 27, Y2
 
@@ -108,7 +109,7 @@ Other notes:
 
 ### Summer 10, Y1
 - Dump watering can into chest, grab single cauliflower and half of all coffee from chest
-- Chop trees
+- Chop trees as able
 - Sleep at 10am
 
 ### Summer 11, Y1
@@ -136,19 +137,20 @@ Other notes:
 - Plant Apricot Sapling at back of spouse area (to keep safe from debris)
   ![Apricot spot](../../../img/emily_apricot.png)
 - Go to beach 
-- Winter forage farm starting from the same spot as winter 9 until all players have 500 forage between them (165 forage per player)
+- Winter forage farm starting from the same spot as winter 9 until all players have 450 forage between them (150 forage per player)
 - Pass out
 
 ### Spring 20, Y2
 - Harvest apricots
-- Chop trees
+- Chop trees as able
 - Sleep at 9:00am (7:30am if raining)
 
 ### Spring 27, Y2
+- Read all mail (with 3 inventory spaces empty for cloth, wool, and sea urchins)
 - Take all winter forage and 1 pepper poppers from chest
 - Consume pepper poppers
 - Harvest apricots
-- Chop trees until 1 stamina
+- Chop trees as able
 - Drink coffee at 8:50am
 - Gift a loved gift AND an Apricot AND talk to Emily in her bedroom at 9am 
 - Go to Pierres
@@ -160,7 +162,7 @@ Other notes:
 
 ### Summer 10, Y2
 - Dump 2 bouquets into chest
-- Chop trees until 1 stamina
+- Chop trees as able
 - Bouquet and talk to Emily in her bedroom at 9am (Gift a loved gift if you have one, but not required)
 - Pass out
 

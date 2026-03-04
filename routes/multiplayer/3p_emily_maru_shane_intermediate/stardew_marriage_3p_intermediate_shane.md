@@ -16,6 +16,7 @@ Play as: Girl
 - After summer, Y1, only wood is needed
 - Forage should be grabbed whenever possible and stashed in the chest
 - Coffee should be used on winter 9th and 11th to speed up winter forage farming
+- When the notes say to chop trees, if you already have enough wood to finish the run, instead spend time gathering forage and putting it into the chest
 - 1 coffee and 1 pepper poppers (+ 1 pepper poppers for the Emily player) should be saved for Spring 27, Y2
 
 ## Route
@@ -32,13 +33,13 @@ Play as: Girl
 
 ### Spring 5, Y1
 - Harvest 1 parsnip, toss on ground
-- Chop trees until 1 stamina
+- Chop trees as able
 - Craft and place chest, dump scythe into chest
 - Pass all sap to Maru player
 - Receive all parsnips from Maru player
 - Go to Pierres at 9am
 - Sell 11 regular parsnips, Buy 11 Cauliflower seeds
-- Pass out
+- Pass out, or return home and sleep
 
 ### Spring 6, Y1
 - Plant all cauliflower spots
@@ -67,8 +68,8 @@ Play as: Girl
 - Sleep
 
 ### Spring 27, Y1
-- Grab everything sellable from chest (leave 11 parsnips)
-- Chop trees until 1 stamina
+- Grab everything sellable from chest (leave 11 parsnips and all cauliflower)
+- Chop trees as able
 - Go south checking all beach crates for coffee/burgers
 - Ensure the space at the south of the farm is free of debris for house movement
   ![Shane Cabin](../../../img/multi_3p_shane_house.png) 
@@ -79,7 +80,6 @@ Play as: Girl
 
 ### Summer 1, Y1
 - Distribute coffee among other players (ie: put two-thirds of coffee into chest)
-- Grab single cauliflower from chest
 - Chop trees as able
 - Gift beer and talk to Shane outside his house at 7:15am
 - Continue chopping trees
@@ -91,16 +91,17 @@ Play as: Girl
 
 ### Summer 10, Y1
 - Dump watering can into chest
+- Grab single cauliflower from chest
 - Collect peppers from Maru player
-- Chop trees 
+- Chop trees as able
 - Gift pepper and talk to Shane outside his house at 7:15am
-- Chop more trees
+- Continue chopping trees
 - Sleep in southern cabin at 10:00am
 
 ### Summer 11, Y1
-- Chop trees 
+- Chop trees as able
 - Gift pepper and talk to Shane outside his house at 7:15am
-- Chop more trees
+- Continue chopping trees
 - Luau at 9am
 - Cauliflower in soup
 - Sleep
@@ -114,7 +115,7 @@ Play as: Girl
 - Go to beach
 - Winter forage farm, starting from shown tile (86 tiles)
   ![Winter Forage Start](../../../img/multi_3p_winter_forage_start_1.png)
-- Leave beach at 8:10am to intercept Shane in town
+- Leave beach at 8:00am to intercept Shane in town
 - Gift pepper and talk to Shane in town
 - Return to beach and finish winter forage farming pattern (86 tiles)
 - Pass out
@@ -123,21 +124,21 @@ Play as: Girl
 - Go to beach
 - Drink coffee, if available
 - Winter forage farm
-- Leave beach at 8:10am to intercept Shane in town
+- Leave beach at 8:00am to intercept Shane in town
 - Gift pepper and talk to Shane in town
-- Return to beach and continue winter forage farming until all players have 500 forage between them (165 forage per player)
+- Return to beach and continue winter forage farming until all players have 450 forage between them (150 forage per player)
 - Pass out
 
 ### Spring 20, Y2
 - Dump all winter forage, pizza, and all but 1 pepper poppers into chest
-- Chop trees
+- Chop trees as able
 - Gift pepper and talk to Shane in his house at 9am (outside his house at 7:15am if raining)
 - Sleep / Pass out at 9:00am (7:10am if raining)
 
 ### Spring 27, Y2
 - Read all mail
-- Consume pepper poppers
-- Chop trees until 1 stamina
+- Consume pepper poppers at 6:00am
+- Chop trees as able
 - Drink coffee at 8:50am
 - Gift pepper and talk to Shane in his house at 9am
 - Go to Robins
@@ -146,7 +147,7 @@ Play as: Girl
 - Wait until EVERYONE has upgraded their house before passing out
 
 ### Summer 10, Y2
-- Chop trees
+- Chop trees as able
 - Gift pepper and talk to Shane outside his house at 7:15am
 - Return to main cabin and dump all extra resources into chest
 - Chop trees until 9:00am
@@ -156,8 +157,9 @@ Play as: Girl
 - Grab 1 cauliflower and bouquet from chest
 - Hold 1 cauliflower, 2 gold peppers, and a bouquet, ship EVERYTHING else
 - Chop trees as able
-- Gift pepper AND bouquet AND talk to Shane outside his house at 7:15am
+- Gift pepper and talk, THEN gift bouquet to Shane outside his house at 7:15am
 - Luau at 9am
+- Talk to Everyone
 - Cauliflower in soup
 - Sleep
 

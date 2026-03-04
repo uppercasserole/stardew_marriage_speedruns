@@ -23,6 +23,7 @@ Extra options:
 - In early spring and summer, the only resources you care about are wood and sap (for fertilizer). All other resources can be tossed. 
 - After summer, Y1, only wood is needed
 - Forage should be grabbed whenever possible and stashed in the chest
+- When the notes say to chop trees, if you already have enough wood to finish the run, instead spend time gathering forage and putting it into the chest
 - Coffee should be used on winter 9th and 11th to speed up winter forage farming
 
 ## Route
@@ -91,7 +92,7 @@ Extra options:
 ### Spring 27, Y1
 - Harvest remaining cauliflower
 - Put 4 cauliflower into chest
-- Chop trees until 1 stamina
+- Chop trees as able
 - Check left side of farm for crates, keeping burgers/coffee
 - Gift cauliflower and talk to Maru in the lab (Robins house) at 10am
 - Move Shane players cabin to the south of the farm via Robin
@@ -134,7 +135,7 @@ Extra options:
 - Give all peppers to Shane player
 - Read single letter from mail for fishing rod (if vanilla)
 - Water all peppers
-- Chop trees until 1 stamina
+- Chop trees as able
 - Gift cauliflower and talk to Maru outside her bedroom at 10am
 - Pass out
 
@@ -144,6 +145,7 @@ Extra options:
 - Dump watering can and scythe into chest, grab all coffee from chest
 - Chop trees until 7:30am
 - Gift cauliflower and talk to Maru walking to the clinic
+- When asked, answer with option 3: "It sounds challenging"
 - Luau at 9:00am
 - Cauliflower in soup
 - Sleep
@@ -166,17 +168,17 @@ Extra options:
 ### Winter 11, Y1
 - Drink coffee, if available
 - Go to beach
-- Winter forage farm starting from the same spot as winter 9 until all players have 500 forage between them (165 forage per player)
+- Winter forage farm starting from the same spot as winter 9 until all players have 450 forage between them (150 forage per player)
 - Pass out
 
 ### Spring 20, Y2
 - Dump all winter forage in chest
-- Chop trees
+- Chop trees as able
 - Sleep at 9:00am (7:30am if raining)
 
 ### Spring 27, Y2
 - Grab all wood from chest
-- Chop trees until 1 stamina (gifting at 9:30am instead of 9:00am today, so a bit of extra chopping time)
+- Chop trees as able (gifting at 9:30am instead of 9:00am today, so a bit of extra chopping time)
 - Go to Robins
 - Gift cauliflower and talk to Maru in Robins house
 - Upgrade house at Robins
@@ -184,15 +186,15 @@ Extra options:
 - Wait until EVERYONE has upgraded their house before passing out
 
 ### Summer 10, Y2
-- Chop trees until 1 stamina
+- Chop trees as able
 - Gift cauliflower and talk to Maru in her bedroom at 9am
 - Pass out
 
 ### Summer 11, Y2
 - Grab bouquet from chest
-- Hold onto 2 cauliflower and bouquet, ship EVERYTHING else
+- Hold onto 1 cauliflower and bouquet, ship EVERYTHING else
 - Chop trees until 7:30am
-- Gift cauliflower AND bouquet AND talk to Maru walking to the clinic
+- Gift bouquet and talk to Maru walking to the clinic (DON'T GIFT CAULIFLOWER)
 - Luau at 9:00am
 - Cauliflower in soup
 - Sleep
